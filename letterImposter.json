@@ -1,35 +1,26 @@
 {
-	"version": "said v3",
+	"version": "mounir v2",
 
 
-"applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
-	"applovinbanner": "77c64f9e99e23763",
-	"applovininter": "11414c0241b0e82a",
-	"applovinreward": "b4c66b4a4984eaf1",
-	
-	
-	"ironsdk": "114b18dc5",
 
 
-	"fanbanner": "DefaultRewardedVideo",
-	"faninter": "DefaultRewardedVideo",
-	"fanreward": "DefaultRewardedVideo",
-
-	"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
 	"admobInterId": "ca-app-pub-3940256099942544/1033173712",
 	"admobReward": "ca-app-pub-3940256099942544/5224354917",
+		"appopen": "ca-app-pub-3940256099942544/5224354917",
 
+"applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
+"applovinbanner": "77c64f9e99e23763",
+"applovininter": "11414c0241b0e82a",
+"applovinreward": "b4c66b4a4984eaf1",
 
+"adscounter": "1",
 
+"adsSwitchInter details ": "0 auto 1 admob 2 applovin",
 
-"adsSwitch detail ": " 1:iron 2:applovin 3:fan 4:admob 0:auto",
-"adsSwitchInter": "4",
-"adsSwitchBanner": "4",
-"adsSwitchReward": "4",
-
-"ads counter details ": "inter counter ",
-"adscounter": "1"
-
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1"
 	
 
 
