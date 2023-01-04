@@ -1,0 +1,221 @@
+{
+	"Ads": {
+		"show_ads": true,
+		"bannerAd": "unity",
+		"InterAd": "admob",
+		"NativeAd": "admob",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native": "ca-app-pub-3940256099942544/2247696110",
+		"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"ironsource_api": "1011dee21",
+		"max_banner": "6db1491f2e21970c",
+		"max_inter": "812b82d9e0c7cb7f",
+		"max_native": "64ea2f2ef41edb34",
+		"unityTest": true,
+		"unityGameID": "4398793",
+		"unityBanner": "Banner",
+		"unityInter": "Inter",
+		"intersitial_click_activites": 1,
+		"intersitial_click_list": 3
+
+	},
+
+	"Data": {
+		"btn_more_title": "More",
+		"btn_more_url": "https://www.google.com/",
+
+
+		"items_data": [{
+				"title": "platform for popular Anime with English subtitles.",
+				"image": "https://www.videoconverterfactory.com/tips/imgs-self/is-gogoanime-safe/is-gogoanime-safe-1.jpg",
+				"detail": [{
+						"image": "1111111",
+						"text": "Gogoanime is the website to watch popular anime with English subtitles and dub for free online. Their newest App on google play is called Gogoanime Official,which everyone can download and watch online for free.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "New York, July 05, 2022 (GLOBE NEWSWIRE) -- Competition in the anime industry is fiercer than ever. The media promotes all media anime images everywhere. The habit of watching anime has become an essential thing for anime believers. Gogoanime TV was born, specializing in accessible and safe anime streaming for millions of anime lovers. The first version, which was gogoanime.io, was no longer active. Gogoanime.mom is the only alternative suitable for all ages.",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "Gogoanime is the website to watch popular anime with English subtitles and dub for free online. People can watch their favorite anime with 1080p HD quality and update their fastest anime episodes. It is a perfect place to relax and entertain children and adults with anime about friendship, humor, and magic. Moreover, they can also travel to Japan, the USA, India, UK, the Philippines, Malaysia, and Canada.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+			{
+				"title": "user experience",
+				"image": "https://cdn.gogoanime.news/news/screen-shot-2021-07-08-at-23_19_49-1625762197.png",
+				"detail": [{
+						"image": "1111111",
+						"text": "In addition to that, user experience is raised to a new level by 4.0 technology that makes videos much more realistic. Various anime series are waiting for anime enthusiasts to download or watch live. The Gogo anime interface is very user-friendly, searching for their client's favorite anime is very simple, and the anime archive is vast.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "It is free to Watch Anime Online platforms. Japanese anime is getting more and more advanced and is watched all around the world. There are hundreds of episodes of anime that are released every day. Team sub and dub Gogoanime work hard for the audience to see as quickly as possible. Many sub and dub problems are downloaded by other websites and uploaded to unknown sources. They need to be more careful about unnatural links. Users can choose the official Gogoanime to watch anime safely and quickly.",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "App on google play",
+				"image": "https://citizenside.com/wp-content/uploads/2021/02/GogoAnime-1170x780.jpg",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "Furthermore, their newest App on google play is called Gogoanime Official which everyone can download and watch online for free. Any other Gogoanime APK or iOS apps are fake. They also have officially announced the development of the Gogoanime Mobile App. Users are advised to be careful with offers to download unofficial apps. They will steal data or may get viruses.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "Most free anime can't live long. Gogoanime.io is not immune to this either. Originally Gogo Anime was called Gogoanime to provide anime as safe and free TV full Sub and Dub. The process was so fast that the first domain was inaccessible, but we fixed it by creating a more secure anime viewing platform. Ensuring anime-loving users have a sustainable place to watch anime.",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "Gogoanime.mom is the only official website where people can watch anime with English Sub and Dub. Fake websites are trying to imitate Gogoanime in any way. Distinguish Gogo Anime TV new by the following features:",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+			{
+				"title": "High-quality Video",
+				"image": "https://www.mysportdab.com/wp-content/uploads/2020/02/gogoanime-1200x675.jpg",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "No need to download the App",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "The App is available on google play",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "Cost savings",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "Big anime archive",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+
+
+
+			{
+				"title": "Is Gogoanime Safe and Legal to Use?",
+				"image": "https://addons.mozilla.org/user-media/previews/full/240/240170.png",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "We can find many free anime websites on the Internet. However, the security and legality of these free websites have long been hugely controversial. This post focuses on one of the most sought-after anime websites, Gogoanime, explaining whether Gogoanime is safe and legal and what is the real Gogoanime website.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "Is Gogoanime Legal?",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "Most free anime streaming and download websites are illegal, including 9Anime, Kissanime, AnimeHeaven, Animedao, and also Gogoanime. All anime episodes on such websites are not licensed by the original producers so they’re essentially pirated. But there is a loophole. The likes of Gogoanime don’t host but provide indexes of content to third-party servers, such as MP4Upload and Vidstreaming to avoid or minimize legal actions.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "Users rarely get involved in legal issues when streaming anime on Gogoanime and similar websites. However, due to the crackdown over online copyright infringement piracy, these platforms have to face with the fate of being closed. Of course, they always stage a comeback.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Typically, you can use these free anime websites without worrying about legal risks. But if you need legal options, here is a list of free legal anime websites for your information: Top 9 Legal Anime Websites.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "Is Gogoanime Safe",
+				"image": "https://citizenside.com/wp-content/uploads/2021/02/GogoAnime-1170x780.jpg",
+				"detail": [
+
+					{
+						"image": "111111111111111111",
+						"text": "The biggest threat to safe use of Gogoanime is pop-ups and ad banners. Gogoanime is loaded with a few embedded ads. When you click on buttons or any place on its pages, it may occasionally direct you to random ad websites. It is still safe to use this website as long as you don’t install any malware or click irrelevant ad buttons. Furthermore, you can install an ad-block extension on your browser to block most of the ads. Check how to watch anime without ads with the help of AdBlock extensions. There are few complaints about security issues on Gogoanime. It is a safe place to enjoy anime free in most occasions.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			}
+		]
+	}
+}
