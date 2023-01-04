@@ -1,0 +1,285 @@
+{
+	"Ads": {
+		"show_ads": true,
+		"bannerAd": "unity",
+		"InterAd": "admob",
+		"NativeAd": "admob",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native": "ca-app-pub-3940256099942544/2247696110",
+		"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"ironsource_api": "1011dee21",
+		"max_banner": "6db1491f2e21970c",
+		"max_inter": "812b82d9e0c7cb7f",
+		"max_native": "64ea2f2ef41edb34",
+		"unityTest": true,
+		"unityGameID": "4398793",
+		"unityBanner": "Banner",
+		"unityInter": "Inter",
+		"intersitial_click_activites": 1,
+		"intersitial_click_list": 3
+
+	},
+
+	"Data": {
+		"btn_more_title": "More",
+		"btn_more_url": "https://www.google.com/",
+
+
+		"items_data": [{
+				"title": "An Effortless Passive Income App!",
+				"image": "https://miro.medium.com/max/1100/1*U-9vhWpwxEyneBg6Nx2mDg.webp",
+				"detail": [{
+						"image": "1111111",
+						"text": "Honeygain is one of my favourite passive income generators — a no-fuss, set-it-up-once-and-forget-way to earn passive income for me that runs in the background. It is a free app that works on virtually any mobile or desktop device, enabling you to earn passive cashflow whilst literally barely having to lift a finger, by securely sharing your Internet connection, which is then used to gather publicly-available web data crucial for businesses seeking to improving their ad ranking, compare prices, and prevent ad fraud; all without compromising your data security. Essentially, Honeygain allows you to monetize your unused internet traffic by turning your device into a network gateway (residential proxy). While it does not promise a very bountiful yield, the little rewards gained do add a little something to the small things in life that can brighten up one’s day, like paying for a monthly Netflix subscription, or that one expensive rare treat.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://miro.medium.com/max/1100/1*nOym8PBNKVoABRsnqzsrNQ.webp",
+                        "text": "The Rationale",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://miro.medium.com/max/1100/1*oJcgLoiR1KSPp03xS3j0rg.webp",
+						"text": "Honeygain provides residential proxy services to third parties like data scientists, Fortune 500s, advertising companies, and other businesses. At any given time, you are only using a fraction of your total internet data on your smartphone or desktop. Installing Honeygain on your devices allows these companies to use your unused internet connection to run crowdsourced information processing, brand protection campaigns, SEO monitoring, ad-fraud prevention, enable streaming, and so forth, among many other things. In return for “renting out” your excess internet data to these companies, you are paid a decent amount — all effortlessly in the background. You get 1 credit for every 10MB of data your share. Each credit is worth $0.0001, so if you share 10GB, then you would get $1 in credits.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "Is My Data Safe?",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://miro.medium.com/max/640/1*VQ_vj4jFXjh4IMSd4IM_GA.webp",
+						"text": "Yes. Honeygain ensures that your internet traffic is only used by trusted partners, and does not access your device’s storage nor collect any of your personal data, other than your email address, IP address, and payout methods, or any other information beyond what is needed to identify your account and clear the payment.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "A quick check on my Android device’s permission confirms Honeygain’s statement that the application doesn’t require any special permissions to operate.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+			{
+				"title": "Power Concerns",
+				"image": "https://miro.medium.com/max/828/1*TeDnhH8NMdB8adBOxylpNg.webp",
+				"detail": [{
+						"image": "1111111",
+						"text": "The app runs quietly in the background, with a typical battery consumption varying from 5%-8% per day; and as such is hardly a battery killer, especially if the phone is connected to a WiFi network.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "First Things First",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://miro.medium.com/max/828/1*_B7aeCjhYs225ijszKuh6w.webp",
+						"text": "If you have not already done so, sign up for Honeygain here. After registration, you will be led to the Honeygain dashboard, which comprehensively displays your earnings, updated automatically in real-time based on how much of your bandwidth you have shared with the network. The earnings are nicely broken down into subcategories, such as gatherings, referrals, winnings and bonuses, for your easy perusal.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "Once you have created your account, download the Honeygain application, available for Android, iOS, Mac, Windows (tutorial) and Linux. Once the installation is complete, log in to your account using the same credentials so your application can sync with your dashboard.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Below are some tips that I have discovered throughout my journey with Honeygain, that may help to maximize your earnings!",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "🐝#1 Use multiple devices",
+				"image": "https://miro.medium.com/max/828/1*rd5sOt_TRHt53bC2Ymo95Q.webp",
+				"detail": [
+
+					{
+						"image": "",
+						"text": "Each Honeygainer can have up to 10 active devices at any given time. The more devices and IP addresses you use, the more traffic you can share — which also translates to greater earnings! However, take note that you can only set up a maximum of 3 devices per network. Make use of that old smartphone that has been lying around idle in your house, or install it on your laptop to run in the background as you work from home.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "Updated 24/4/22: Honeygain has recently announced that they will only allow one active device per IP address, with the aim of streamlining and optimizing the internet traffic without compromising on user’s earnings. However, you will still be able to run up to 10 active devices on different IP addresses to maximize your earnings!",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://miro.medium.com/max/828/1*TqGDoXsO6wh6ymG7tLJwOw.webp",
+						"text": "🐝#2 Earn in JumpTask!",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "In January 2022, Honeygain partnered with a remote work platform, JumpTask, to offer the option of earning in the native token of the JumpTask network. JumpTask is a gig economy-based marketplace that allows companies to make the most out of the collective skills possessed by a globally dispersed workforce. The platform is powered by the JumpToken (JMPT) token, which has a rather good investment potential, given the sound ideology and utility of the project.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://miro.medium.com/max/828/1*AGVb6KSnGASnM1UwCtck3A.webp",
+						"text": "Honeygainers can take the opportunity to leverage the potential of this new token, and earn more with a time-limited 50% bonus, by opting to earn in JMPT instead of Honeygain credits, as shown below.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+			{
+				"title": "cryptocurrency wallet",
+				"image": "https://miro.medium.com/max/828/1*vMeESkxDtvp68eFLzb7KEQ.webp",
+				"detail": [
+
+					{
+						"image": "https://miro.medium.com/max/720/1*oY9uRX8fpUJwCPqphdfNxw.webp",
+						"text": "If you decide to switch to earn in JumpTask mode, you have to connect a cryptocurrency wallet to collect your earning in JumpTokens. Any wallets compatible with the Binance Smart Chain (BSC) network is supported — I personally use Trust wallet for this purpose, although Metamask is also a popular option. (Tutorial to follow; stay tuned!)",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "Other benefits of choosing to earn in JMPT include a flexible cash-out option, with a low transaction fee.",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://miro.medium.com/max/750/1*kNroF8wfCUF9GbiQqg6Y4g.webp",
+						"text": "Update 14/6/22: The promotional period for 50% bonus payout in JMPT has come to an end. Earnings in JMPT now accrue a 10% bonus.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+
+
+
+			{
+				"title": "🐝#3 Avail JumpTask bonuses!",
+				"image": "https://miro.medium.com/max/828/1*ciGw7BXjWsG04i_984hi-g.webp",
+				"detail": [
+
+					{
+						"image": "",
+						"text": "JumpTask has an active developing team and growing community. In addition to earning with Honeygain, JumpTask offers new earning opportunities every now and then, such as the Offerwall which is coming up soon! Offerwalls are set to debut on March 21, opening up a whole new type of microtasks for JumpTask users to complete for JumpToken (JMPT).",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "Add a tinge of financial incentive to your everyday hobbies, from gaming to watching videos or trying out a new service or application — the possibilities are boundless! Most importantly, do all these from the comfort of your home, with Honeygain running in the background to add that little zest to your JMPT earnings!",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://miro.medium.com/max/828/1*h8qy30NPT3Xh89wndopTJQ.webp",
+						"text": "🐝#4 Enable Content Delivery!",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "Essentially, content delivery systems work by introducing certain intermediaries, such as networking and storage servers, which facilitate user access to certain contents on the Internet, by delivering its cached copy or redirecting them so they can reach it via a faster or otherwise more suitable route. Content Delivery can also be used to stream content to a location from which it cannot be accessed directly.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://miro.medium.com/max/828/1*pMRd_pi4DxjWZGghfQMFzQ.webp",
+						"text": "In the context of Honeygain, Content Delivery is a feature on Windows and macOS devices, that enables transfer acceleration and bandwidth optimization for its clients, enabling faster and more secure content delivery worldwide with a higher data transfer rate, and a smoother browsing experience; for the Honeygainer, this translates into extra earnings, which will depend not on how much of your traffic is shared with Honeygain’s network but on the time (minutes, hours, or days) you have this feature turned on and in “Active” status (not “in Queue”!). As such, by enabling Content Delivery, any desktop device that is connected to the Content Delivery’s Servers will receive 6 credits/hour, in addition to the regular earnings. Importantly, this data that passes through the Honeygainer’s device in the form of shared traffic for the purpose of Content Delivery is fully encrypted and therefore cannot be deciphered by any third parties. As Content Delivery includes multiple types of bandwidth-intensive content, such as images, videos, audio, streaming, heavy websites, IPTV, VOD, social media, or VoIP services, it is only available on desktop devices, which usually have a more stable internet connection.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://miro.medium.com/max/640/1*eN8QQvmqMezUoRGijobJgQ.webp",
+						"text": "How to activate content delivery? Simply click enable when the pop-up notification for content delivery is displayed on your desktop/ laptop device.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "11111111111",
+						"text": "This feature is currently only available to users from a limited number of countries, namely Argentina, Australia, Austria, Belgium, Brazil, Canada, China, Colombia, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, India, Ireland, Italy, Japan, Malaysia, Mexico, Netherlands, New Zealand, Norway, Poland, Philippines, Portugal, Romania, Russia, Singapore, South Africa, Spain, Sweden, Switzerland, Taiwan, Turkey, United Kingdom, and United States of America. [Updated 2021–06–08]",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "🐝#5 Try your luck daily!",
+				"image": "https://miro.medium.com/max/828/1*Mj3eaKJYN1qVQp41j-8Juw.webp",
+				"detail": [
+
+					{
+						"image": "111111111111111111",
+						"text": "One of my morning routines is to check my Honeygain dashboard; in addition to my daily earnings, therein lies a Lucky Pot lottery which can be rather generous sometimes! Honeygain’s Lucky Pot lottery offers you a chance to win up to 10,000 extra credits ($10) every day by simply checking the Honeygain application on your desktop or mobile device. In my practical experience, my rewards have usually been in the range of 10–50 credits, with an exception of earning 200 credits on one occasion.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			}
+		]
+	}
+}
