@@ -29,54 +29,25 @@
 
 
 		"items_data": [{
-				"title": "2222222222222222",
+				"title": "how to install HDO Box",
 				"image": "111111111111111111111",
 				"detail": [{
 						"image": "1111111",
-						"text": "222222222222222222",
+						"text": "This guide will show you how to install HDO Box on Firestick and Android TV. The guide is accompanied by screenshots, and it can be used on all versions of Fire TV and Android TV boxes/sticks.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "",
-                        "text": "222222222222222222",					
+                        "text": "HDO Box is one of the hottest apps in the market at the moment, and it can easily become your new favorite free streaming app. The HDO Box app specializes in movies and TV shows, offering thousands of them for free. Best of all, you will get to stream in HD by default, though you also have the option of choosing your preferred video quality.",					
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "111111111",
-						"text": "222222222222222222",
-						"native": true,
-						"cpa_title": "",
-						"cpa_url": "https://google.com"
-					},
-					{
-						"image": "",
-						"text": "222222222222222222",
-						"native": true,
-						"cpa_title": "",
-						"cpa_url": "https://google.com"
-					},
-					{
-						"image": "11111111111",
-						"text": "222222222222222222",
-						"native": true,
-						"cpa_title": "",
-						"cpa_url": "https://google.com"
-					},
-					{
-						"image": "11111111111",
-						"text": "222222222222222222",
-						"native": true,
-						"cpa_title": "",
-						"cpa_url": "https://google.com"
-					},
-					
-					{
-						"image": "11111111111",
-						"text": "222222222222222222",
+						"text": "In terms of functionality, HDO Box is more like CinemaHD and Flixoid. However, the app outdoes these and most other free streaming apps with its cool selection of features and its modern, sleek interface that sets it apart from the tens of Terrarium TV clones.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
@@ -87,46 +58,46 @@
 
 
 			{
-				"title": "222222222",
+				"title": "Some HDO Box features are:",
 				"image": "1111111111111111",
 				"detail": [{
 						"image": "1111111",
-						"text": "222222222222222222",
-						"native": true,
+						"text": "Superb interface",
+						"native": false,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "",
-                        "text": "222222222222222222",					
+                        "text": "1-click play",					
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "111111111",
-						"text": "222222222222222222",
-						"native": true,
+						"text": "Excellent content organization",
+						"native": false,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "",
-						"text": "222222222222222222",
+						"text": "Multi-language subtitles",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "11111111111",
-						"text": "222222222222222222",
-						"native": true,
+						"text": "Video quality selection",
+						"native": false,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "11111111111",
-						"text": "222222222222222222",
+						"text": "Trakt integration",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
@@ -134,7 +105,7 @@
 					
 					{
 						"image": "11111111111",
-						"text": "222222222222222222",
+						"text": "If you’d like to explore the app, this guide will take you through a step-by-step installation procedure for Firestick and Android TV.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
@@ -153,50 +124,28 @@
 
 					{
 						"image": "1111111",
-						"text": "222222222222222222",
+						"text": "⚠ Caution: Use a VPN",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "",
-                        "text": "222222222222222222",					
-						"native": true,
+                        "text": "HDO Box doesn’t host the content it provides despite the fact that it doesn’t aggregate for links like most apps. This means that you need to be careful when using the app, as some of the videos may be pirated.",					
+						"native": false,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "111111111",
-						"text": "222222222222222222",
+						"text": "👉 To avoid falling victim to copyright infringement and having your data in the hands of insecure servers, we highly advise using a VPN.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "",
-						"text": "222222222222222222",
-						"native": true,
-						"cpa_title": "",
-						"cpa_url": "https://google.com"
-					},
-					{
-						"image": "11111111111",
-						"text": "222222222222222222",
-						"native": true,
-						"cpa_title": "",
-						"cpa_url": "https://google.com"
-					},
-					{
-						"image": "11111111111",
-						"text": "222222222222222222",
-						"native": true,
-						"cpa_title": "",
-						"cpa_url": "https://google.com"
-					},
-					
-					{
-						"image": "11111111111",
-						"text": "222222222222222222",
+						"text": "The VPN will encrypt your traffic to protect you from the snooping eyes of your ISP and government, and it will also change your IP address to make your online activities anonymous.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
@@ -208,33 +157,40 @@
 
 
 			{
-				"title": "22222222222222222",
+				"title": "How to Install HDO Box on Firestick & Android TV",
 				"image": "111111111111111",
 				"detail": [
 
 					{
 						"image": "1111111",
-						"text": "222222222222222222",
+						"text": "Since HDO Box is a third-party app, it’s unavailable on either the Amazon Store or the Play Store. This means that we’ll need to sideload it, and for that, we’ll use an app known as Downloader. The app is available on both the Amazon Store and Google Play Store.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "",
-                        "text": "222222222222222222",					
+                        "text": "Step 1: Install Downloader",					
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "111111111",
-						"text": "222222222222222222",
+						"text": "On Google Play Store, just search for Downloader and click install. On Firestick, you can follow the instructions below.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
 						"image": "",
+						"text": "On the main page, hover over Find, then click Search.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2021/05/Firestick-Homepage-2.png",
 						"text": "222222222222222222",
 						"native": true,
 						"cpa_title": "",
@@ -242,13 +198,14 @@
 					},
 					{
 						"image": "11111111111",
-						"text": "222222222222222222",
+						"text": "Type Downloader and click on the suggestion to search.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
+					
 					{
-						"image": "11111111111",
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2021/05/Searching-Downloader.png",
 						"text": "222222222222222222",
 						"native": true,
 						"cpa_title": "",
@@ -257,7 +214,39 @@
 					
 					{
 						"image": "11111111111",
+						"text": "The app should be displayed on the results page.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2022/04/Downloader-Search-Results-1536x864.jpg",
 						"text": "222222222222222222",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "11111111111",
+						"text": "Select it and click Download.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2021/05/Firestick-Installing-Downloader.png",
+						"text": "222222222222222222",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "11111111111",
+						"text": "After the installation, you’ll get an Open option. There is no need to launch the app yet, so just go back to the home screen.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
@@ -272,12 +261,26 @@
 
 
 			{
-				"title": "22222222222222222",
+				"title": "Step 2: Enable Installation from Unknown Sources",
 				"image": "1111111111111111111",
 				"detail": [
 
 					{
 						"image": "1111111",
+						"text": "After installing Downloader, you’ll now need to allow your device to install third-party applications downloaded through the app.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "1- Go to Settings on the main page and select My Fire TV. The option is Security & restrictions on Android devices, although this may vary with the manufacturer.",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2021/07/Firestick-Settings-MyFireTV.png",
 						"text": "222222222222222222",
 						"native": true,
 						"cpa_title": "",
@@ -285,20 +288,13 @@
 					},
 					{
 						"image": "",
-                        "text": "222222222222222222",					
+						"text": "2- Open Developer options (Skip this for Android TV).",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
 					{
-						"image": "111111111",
-						"text": "222222222222222222",
-						"native": true,
-						"cpa_title": "",
-						"cpa_url": "https://google.com"
-					},
-					{
-						"image": "",
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2021/07/Firestick-developer-options.png",
 						"text": "222222222222222222",
 						"native": true,
 						"cpa_title": "",
@@ -306,13 +302,14 @@
 					},
 					{
 						"image": "11111111111",
-						"text": "222222222222222222",
+						"text": "3- Turn on Apps from Unknown Sources.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
+					
 					{
-						"image": "11111111111",
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2021/05/Firestick-Install-Apps-From-Unknown_Sources.png",
 						"text": "222222222222222222",
 						"native": true,
 						"cpa_title": "",
@@ -321,7 +318,47 @@
 					
 					{
 						"image": "11111111111",
+						"text": "If you are using Firestick Gen, Firestick Lite, or Android TV, the option will be Unknown Apps. Once you select it, you will see Downloader, and you can then click it to turn on the option.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2021/10/firestick-enable-unknown-apps-lite.png",
 						"text": "222222222222222222",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "11111111111",
+						"text": "You can now use Downloader to install apps. However, you should also consider disabling data sharing to enhance your privacy if you have not done so (in addition to using a VPN).",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "11111111111",
+						"text": "Go back to the home screen, then click Settings > Preferences > Privacy Settings. Now, turn off “Device Usage Data” and, most importantly, “Collect App Usage Data.”",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2021/05/Firestick-Privacy-Settings.png",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "11111111111",
+						"text": "This will ensure Amazon doesn’t collect data on the apps you use.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
@@ -333,14 +370,89 @@
 
 
 
-			{
-				"title": "2222222222222222",
+                {
+				"title": "trick 4",
 				"image": "111111111111111111111",
 				"detail": [
 
 					{
 						"image": "111111111111111111",
+						"text": "Open Downloader and go to the URL section. Type browser.aftvnews.com and click Go.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					
+                    },
+					{
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2022/01/install-browser-plugin-Android-TV-2.jpg",
 						"text": "222222222222222222",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					
+                    },
+					
+					{
+						"image": "111111111111111111",
+						"text": "The file should now start downloading, and you’ll be prompted to install it. Click Install.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					
+                    },
+					
+					{
+						"image": "111111111111111111",
+						"text": "After the installation, click Done.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					
+                    },
+					
+					{
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2022/01/install-browser-plugin-Android-TV-3.jpg",
+						"text": "222222222222222222",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					
+                    },
+					
+					{
+						"image": "111111111111111111",
+						"text": "You’ll get the option to delete the file. Click Delete, then Delete again.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					
+                    },
+					
+					{
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2022/01/install-browser-plugin-Android-TV-4.jpg",
+						"text": "222222222222222222",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					
+                    }
+					
+				]
+			},
+
+
+
+
+
+
+			{
+				"title": "5: Install HDO Box App on Firestick & Android TV",
+				"image": "https://bestdroidplayer.com/wp-content/uploads/2022/06/how-to-install-HDO-Box-on-Firestick-7.jpg",
+				"detail": [
+
+					{
+						"image": "https://bestdroidplayer.com/wp-content/uploads/2022/06/how-to-install-HDO-Box-on-Firestick-6.jpg",
+						"text": "After that, go to your apps section, and you will find the new app. On the homepage, you’ll find titles grouped into various categories such as TV Shows Trending Today, Movies Trending Today, Popular Networks, Popular Companies, etc.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
