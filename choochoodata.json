@@ -1,26 +1,26 @@
 {
-	"version": "test app v20",
+	"version": "said v2",
 
 
 
 
-"admobbannerId": "",
-	"admobInterId": "",
-	"admobReward": "",
-		"appopen": "",
+"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+	"admobInterId": "ca-app-pub-3940256099942544/1033173712",
+	"admobReward": "ca-app-pub-3940256099942544/5224354917",
+		"appopen": "ca-app-pub-3940256099942544/5224354917",
 
-"applovinsdk": "RJ8mZelv26OxA43ll2MRxm8v8aNAosI0XTA6JISKRJuTuJs9PKCI_TxwoatxwbKJ4LtuTbrxRSvGZuBg6InDAB",
-"applovinbanner": "d47dc6b1bce7e859",
-"applovininter": "993fc06a615af64f",
-"applovinreward": "c5d8a8db2578208f",
+"applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
+"applovinbanner": "77c64f9e99e23763",
+"applovininter": "11414c0241b0e82a",
+"applovinreward": "b4c66b4a4984eaf1",
 
 "adscounter": "1",
 
 "adsSwitchInter details ": "0 auto 1 admob 2 applovin",
 
-"adsSwitchInter": "2",
-"adsSwitchBanner": "2",
-"adsSwitchReward": "2"
+"adsSwitchInter": "0",
+"adsSwitchBanner": "0",
+"adsSwitchReward": "0"
 	
 
 
