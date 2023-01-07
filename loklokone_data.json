@@ -1,0 +1,179 @@
+{
+	"Ads": {
+		"show_ads": true,
+		"bannerAd": "unity",
+		"InterAd": "admob",
+		"NativeAd": "admob",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native": "ca-app-pub-3940256099942544/2247696110",
+		"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"ironsource_api": "1011dee21",
+		"max_banner": "6db1491f2e21970c",
+		"max_inter": "812b82d9e0c7cb7f",
+		"max_native": "64ea2f2ef41edb34",
+		"unityTest": true,
+		"unityGameID": "4398793",
+		"unityBanner": "Banner",
+		"unityInter": "Inter",
+		"intersitial_click_activites": 1,
+		"intersitial_click_list": 3
+
+	},
+
+	"Data": {
+		"btn_more_title": "More",
+		"btn_more_url": "https://www.google.com/",
+
+
+		"items_data": [{
+				"title": "Which country is Loklok available?",
+				"image": "https://dl.memuplay.com/new_market/img/com.zt.mzeks.sc0.2022-01-27-16-34-18.jpg",
+				"detail": [{
+						"image": "1111111",
+						"text": "Loklok has carefully prepared popular film and television content for you from all over the world. Anytime and anywhere, you can watch video content from China, South Korea, Japan, Europe, the United States, Thailand, and other regions.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+			{
+				"title": "Is Lok Lok free?",
+				"image": "https://play-lh.googleusercontent.com/zI9xdyVlKQdnVS0KzFjIWPD0-Xf_-YhHKpIMLVj6ErOr-PoBp_5gu2E0hgU5jazG2A=w2560-h1440-rw",
+				"detail": [{
+						"image": "1111111",
+						"text": "Loklok has many movies and TV series, you can choose the content you like to play online, or you can download it to watch locally.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "What Loklok means?",
+				"image": "https://karyaadalahdoa.id/wp-content/uploads/2022/10/kenapa-loklok-dihapus.jpg",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "Lok-lok is a dish consisting of various steamboat style foods inclusive of meats and vegetables that are served on a skewer in mobile form.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+			{
+				"title": "Can I use Loklok on Iphone?",
+				"image": "https://i.ytimg.com/vi/F_oIM16KWJY/maxresdefault.jpg",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "Requires iOS 11.0 or later. Requires macOS 11.0 or later and a Mac with Apple M1 chip or later.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+
+
+
+			{
+				"title": "Who made Lok Lok app?",
+				"image": "https://images.wallpapersden.com/image/download/out-of-death-movie-2021_bG1paWWUmZqaraWkpJRobWllrWdma2VnZWdmbm4.jpg",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "LokLok, the company explains, began as a small experiment. “I was curious to see if I could use the screen as the communication channel itself,” says LokLok CEO Guillermo Landin, also a UX director for Kwamecorp, via email.Jul 7, 2014",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "Can I watch Loklok on laptop?",
+				"image": "111111111111111111111",
+				"detail": [
+
+					{
+						"image": "111111111111111111",
+						"text": "Enjoy superb experience of using Loklok-Movie&TV on PC with MEMU App Player. It's a powerful free Android emulator which provides you with thousands of android apps for their desktop version. Enjoy connecting with friends and polishing your work with higher efficiency!",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111111111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			}
+		]
+	}
+}
