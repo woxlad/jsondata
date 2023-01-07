@@ -1,0 +1,299 @@
+{
+	"Ads": {
+		"show_ads": true,
+		"bannerAd": "unity",
+		"InterAd": "admob",
+		"NativeAd": "admob",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native": "ca-app-pub-3940256099942544/2247696110",
+		"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"ironsource_api": "1011dee21",
+		"max_banner": "6db1491f2e21970c",
+		"max_inter": "812b82d9e0c7cb7f",
+		"max_native": "64ea2f2ef41edb34",
+		"unityTest": true,
+		"unityGameID": "4398793",
+		"unityBanner": "Banner",
+		"unityInter": "Inter",
+		"intersitial_click_activites": 1,
+		"intersitial_click_list": 3
+
+	},
+
+	"Data": {
+		"btn_more_title": "More",
+		"btn_more_url": "https://www.google.com/",
+
+
+		"items_data": [{
+				"title": "Is AetherSX2 a PS2 emulator?",
+				"image": "https://play-lh.googleusercontent.com/60NUNCGugVqSr9enYDw8yL2c0v9bzHxk8iZxqmNMvvDx6_8hZ1wfqYG1BVi1zRdInfA=w526-h296-rw",
+				"detail": [{
+						"image": "1111111",
+						"text": "The sole developer behind AetherSX2, a PlayStation 2 emulator for Android devices, announced that they are discontinuing development of the app due to the “neverending” online impersonation, complaints, demands, and death threats they’ve endured.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "“AetherSX2 was always meant to be a fun hobby for me, not profit driven. It doesn’t make sense to continue working on a hobby which isn’t fun anymore,” the developer said in a brief post on the AetherSX2 website announcing the suspension of development. “Thanks to everyone who wasn’t a d*ck for the last year.”",					
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "Prior to AetherSX2, the only viable emulation option for people who wanted to play PS2 games on their Android devices was DamonPS2. However, folks in emulator circles appreciated having AetherSX2 as an alternative because DamonPS2, a for-profit closed-source app, was accused of stealing source code by the team behind free open-source PS2 emulator PCXS2 in a now-deleted post that you can view through the Wayback Machine.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "The sole developer behind AetherSX2, a PlayStation 2 emulator for Android devices, announced that they are discontinuing development of the app due to the “neverending” online impersonation, complaints, demands, and death threats they've endured.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+			{
+				"title": "How much RAM do you need to emulate PS2?",
+				"image": "https://image.winudf.com/v2/image1/Y29tLmFldGhlcnMuZW11bGF0b3IucHMyX3NjcmVlbl83XzE2NjY5MjIwNzNfMDcy/screen-7.jpg?fakeurl=1&type=.webp",
+				"detail": [{
+						"image": "1111111",
+						"text": "Hardware requirements",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "4 GB RAM. 8 GB RAM. DirectX 10 (DX11 since 1.6.",					
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "How do I get AetherSX2 to work?",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "To run AetherSX2, you'll need a 64-bit device, and the chipset must have big performance cores (the developer recommends at least a Snapdragon 845). You can play games either using Vulkan or OpenGL, depending on which performs best on your device, and you can hot-swap between the two while in-game",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "How do I make AetherSX2 run smoother?",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "One way to potentially get better performance that has nothing to do with the app is to switch from your phone's default power profile to a performance mode (usually available in battery settings). This increases performance at the expense of battery life and temperature.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "Setting up AetherSX2",
+				"image": "https://www.androidauthority.com/wp-content/uploads/2021/12/AetherSX2-screenshot-2021-1200w-675h.jpg.webp",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "Got a decently powerful phone and downloaded the app? Before you can get playing, you’ll need two things. That would be a PS2 BIOS (the firmware that came with the original console) and PS2 ROMs or ISOs. We’re not linking you to either for legal reasons, but Google is your friend. Just remember that you’ll need to own the games you’re downloading, from a legal perspective.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.androidauthority.com/wp-content/uploads/2021/12/AetherSX2-screenshot-2021-1200w-675h.jpg.webp",
+                        "text": "AetherSX2 has a setup wizard to get things going, allowing you to set different compatibility profiles (“optimal/safe” if you have a mid-range or high-end device, “fast/unsafe” if you need a speed boost at the expense of stability), select the downloaded BIOS to use, and choose the directory containing your downloaded PS2 ROMs/ISOs.",					
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-App-Settings-for-BIOS-and-Game-List-1-312w-675h.jpg.webp",
+						"text": "You can also navigate to the Three-line menu button > App Settings > BIOS to add the BIOS this way. Forgot to add your directory of games during the setup wizard? Then you can get this done via the Three-line menu button > App Settings > Game List > Plus icon.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-App-Settings-for-BIOS-and-Game-List-2-312w-675h.jpg.webp",
+						"text": "",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-App-Settings-for-BIOS-and-Game-List-3-312w-675h.jpg.webp",
+						"text": "You’re free to use the touchscreen controls for AetherSX2, but the app also supports gamepads (e.g., Bluetooth and USB-C). We recommend a physical controller for faster-paced titles like action games, racing, and platformers. You can check out our list of the best Bluetooth controllers, but I’ve used the Razer Kishi USB-C gamepad for a battery-free experience.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-App-Settings-for-BIOS-and-Game-List-4-312w-675h.jpg.webp",
+						"text": "",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+			{
+				"title": "What about real-world AetherSX2 performance?",
+				"image": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-with-gamepad-controller-1200w-675h.jpg.webp",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "I’ve tested the emulator on the Snapdragon 8 Gen 1-powered Vivo X80 Pro, Vivo X70 Pro Plus (Snapdragon 888 Plus), the Xiaomi Mi 9T Pro (Snapdragon 855), and the Dimensity 810-equipped Poco M4 Pro. Tested titles include Ace Combat 5: Squadron Leader, Burnout 3: Takedown, Fire Pro Wrestling Returns, Gran Turismo 4, Marvel vs Capcom 2, Shadow of the Colossus, The Simpsons Hit and Run, and WWE Smackdown: Here Comes The Pain.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "The two most recent flagship phones ran all of these games at a very playable pace. Meanwhile, Xiaomi’s older flagship ran most of these games just fine, but Burnout 3 was an unplayable, slow-mo affair out of the box.",					
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "AetherSX 2 runs best on flagship phones, but you can play less-demanding games on budget devices too.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "On the other end of the spectrum is the Poco M4 Pro. It features a recent mid-range processor in the Dimensity 810. Games like Burnout 3 and Gran Turismo 4 are too slow to be playable out of the box. But underclocking (more on this later) does help with titles like The Simpsons Hit and Run and Shadow of the Colossus. It makes them less of a slow-mo experience and more playable. And less demanding 2D titles like Fire Pro Wrestling Returns, MegaMan X Collection, and Marvel vs Capcom 2 run well.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "This is far from comprehensive evidence of how your experience will go, as this is just a small selection of games with basic tweaks being used at best. Still, it should give you a rough idea of what each phone segment is capable of. But it suggests you might want to opt for an older flagship instead of a new budget phone.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+
+
+
+			{
+				"title": "Tips and tricks for a better experience",
+				"image": "https://i.ytimg.com/vi/IgtZHMV9IlQ/maxresdefault.jpg",
+				"detail": [
+
+					{
+						"image": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-settings-1-540w-1200h.jpg.webp",
+						"text": "Being an advanced PS2 emulator, AetherSX2 can be a major challenge for smartphones. It doesn’t help that hundreds of phone models and dozens of processors are out there. Fortunately, the developer includes several features and offers plenty of tips.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "Try changing the graphics renderer from OpenGL to Vulkan, for one. The Vulkan API generally delivers a fast experience but might not deliver the best experience for all games.",					
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-settings-2-540w-1200h.jpg.webp",
+						"text": "This leads to our next tip. In case you didn’t know, you can tap and hold on a game listing to adjust settings only for that title. This is handy if you’ve got one game that requires plenty of tweaks, while the rest of your library works just fine with minimal changes.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "The developer also recommends that those with slower phones try underclocking the emulated console’s CPU. This can be accomplished by visiting the Three-line Menu button > App Settings > System, then choosing the EE Cycle Rate (Underclocking) and EE Cycle Skip (Underclocking option) fields. The EE Cycle Rate should be changed to a negative number, while the Cycle Skip should be set at a positive number.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.androidauthority.com/wp-content/uploads/2022/01/AetherSX2-settings-3-540w-1200h.jpg.webp",
+						"text": "Another handy tip from the horse’s mouth is to enable the Multi-Threaded VU1 option (found in the Three-line menu button > App Settings > System). This can also bring a significant speed boost but requires at least three big CPU cores. Enabling this on a phone with only two big cores could result in slower speeds.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Three other settings worth toggling for better performance include the GPU Palette Conversion, Preload Textures, and Disable Hardware Readbacks options.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "11111111111",
+						"text": "One way to potentially get better performance that has nothing to do with the app is to switch from your phone’s default power profile to a performance mode (usually available in battery settings). This increases performance at the expense of battery life and temperature. Just keep in mind that higher temperatures can also lead to faster throttling. This could make the default power mode better for longer play sessions.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "How do I make AetherSX2 run smoother?",
+				"image": "111111111111111111111",
+				"detail": [
+
+					{
+						"image": "111111111111111111",
+						"text": "One way to potentially get better performance that has nothing to do with the app is to switch from your phone's default power profile to a performance mode (usually available in battery settings). This increases performance at the expense of battery life and temperature.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			}
+		]
+	}
+}
