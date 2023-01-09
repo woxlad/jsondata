@@ -18,7 +18,7 @@
 		"unityGameID": "4398793",
 		"unityBanner": "Banner",
 		"unityInter": "Inter",
-		"intersitial_click_activites": 2,
+		"intersitial_click_activites": 3,
 		"intersitial_click_list": 3
 
 	},
@@ -40,12 +40,11 @@
 					},
 					{
 						"image": "",
-                        "text": " YandereDev said that before the demo, he will add more of these pop-ups. These pop-ups are located around Akademi.",					
+						"text": " YandereDev said that before the demo, he will add more of these pop-ups. These pop-ups are located around Akademi.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
-					}
-					{
+					}, {
 						"image": "11111111111",
 						"text": "",
 						"native": true,
@@ -69,7 +68,7 @@
 					},
 					{
 						"image": "",
-                        "text": "It is possible that Kokona Haruka will serve as the tutorial in the final game by asking Ayano Aishi to rehearse lines of a play about a murderer and their victims. This would teach the player about various ways to kill rivals and how to dispose of the evidence.",					
+						"text": "It is possible that Kokona Haruka will serve as the tutorial in the final game by asking Ayano Aishi to rehearse lines of a play about a murderer and their victims. This would teach the player about various ways to kill rivals and how to dispose of the evidence.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
@@ -102,7 +101,7 @@
 					},
 					{
 						"image": "",
-                        "text": "https://static.wikia.nocookie.net/yandere-simulator/images/9/93/DisablingTutorial.png/revision/latest/scale-to-width-down/674?cb=20190413021337",					
+						"text": "https://static.wikia.nocookie.net/yandere-simulator/images/9/93/DisablingTutorial.png/revision/latest/scale-to-width-down/674?cb=20190413021337",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
@@ -141,7 +140,7 @@
 					},
 					{
 						"image": "https://static.wikia.nocookie.net/yandere-simulator/images/0/0f/StudentCouncilPopup.png/revision/latest/scale-to-width-down/685?cb=20190413020409",
-                        "text": "It will also inform Ayano Aishi who these members are, what they do for the school, what they can do to her, and what will happen if one of them is killed.",					
+						"text": "It will also inform Ayano Aishi who these members are, what they do for the school, what they can do to her, and what will happen if one of them is killed.",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
@@ -176,7 +175,7 @@
 					},
 					{
 						"image": "https://static.wikia.nocookie.net/yandere-simulator/images/1/1a/Teacher-0.png/revision/latest/scale-to-width-down/683?cb=20190423040107",
-                        "text": "Teachers can apprehend Ayano when she gets caught for murder or lose a fight when attempting to kill them. Teachers can also send you to the Counselor's Office if you do one of the five following things:",					
+						"text": "Teachers can apprehend Ayano when she gets caught for murder or lose a fight when attempting to kill them. Teachers can also send you to the Counselor's Office if you do one of the five following things:",
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
@@ -209,7 +208,7 @@
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
 					},
-					
+
 					{
 						"image": "11111111111",
 						"text": "They see Ayano hanging around in the Faculty Room after previous warnings, or hanging around in their classroom (excluding her classroom) after previous warnings.",
@@ -242,8 +241,7 @@
 						"native": true,
 						"cpa_title": "",
 						"cpa_url": "https://google.com"
-					}
-					{
+					}, {
 						"image": "111111111111111111",
 						"text": "",
 						"native": true,
