@@ -1,0 +1,257 @@
+{
+	"Ads": {
+		"show_ads": true,
+		"bannerAd": "admob",
+		"InterAd": "admob",
+		"NativeAd": "admob",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native": "ca-app-pub-3940256099942544/2247696110",
+		"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"ironsource_api": "1011dee21",
+		"max_banner": "6db1491f2e21970c",
+		"max_inter": "812b82d9e0c7cb7f",
+		"max_native": "64ea2f2ef41edb34",
+		"unityTest": true,
+		"unityGameID": "4398793",
+		"unityBanner": "Banner",
+		"unityInter": "Inter",
+		"intersitial_click_activites": 2,
+		"intersitial_click_list": 3
+
+	},
+
+	"Data": {
+		"btn_more_title": "More",
+		"btn_more_url": "https://www.google.com/",
+
+
+		"items_data": [{
+				"title": "Gameplay",
+				"image": "111111111111111111111",
+				"detail": [{
+						"image": "1111111",
+						"text": "While playing the game, the tutorial pop-ups can be disabled in the settings on Ayano Aishi's Phone. Currently, there are about only 15 tutorial pop-ups. However,",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": " YandereDev said that before the demo, he will add more of these pop-ups. These pop-ups are located around Akademi.",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+					{
+						"image": "11111111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+			{
+				"title": "Benefits",
+				"image": "1111111111111111",
+				"detail": [{
+						"image": "1111111",
+						"text": "These pop-ups can be activated in a variety of different ways: being too close to the Student Council, wearing bloody clothing, committing murder, etc. These pop-ups serve as useful information for those who have not played Yandere Simulator yet.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "It is possible that Kokona Haruka will serve as the tutorial in the final game by asking Ayano Aishi to rehearse lines of a play about a murderer and their victims. This would teach the player about various ways to kill rivals and how to dispose of the evidence.",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "Reputation",
+				"image": "https://static.wikia.nocookie.net/yandere-simulator/images/9/93/DisablingTutorial.png/revision/latest/scale-to-width-down/674?cb=20190413021337",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "These pop-ups can be disabled on Ayano Aishi's phone and can be located in the Settings tab. When you disable the tutorial,",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "https://static.wikia.nocookie.net/yandere-simulator/images/9/93/DisablingTutorial.png/revision/latest/scale-to-width-down/674?cb=20190413021337",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "a pop up like this will show up, notifying you for added confirmation on removing them.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+			{
+				"title": "Student Council",
+				"image": "https://static.wikia.nocookie.net/yandere-simulator/images/0/0f/StudentCouncilPopup.png/revision/latest/scale-to-width-down/685?cb=20190413020409",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "When going closer to Student Council members, a pop up will appear showing you the purpose of them.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://static.wikia.nocookie.net/yandere-simulator/images/0/0f/StudentCouncilPopup.png/revision/latest/scale-to-width-down/685?cb=20190413020409",
+                        "text": "It will also inform Ayano Aishi who these members are, what they do for the school, what they can do to her, and what will happen if one of them is killed.",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+
+
+
+			{
+				"title": "Teachers",
+				"image": "https://static.wikia.nocookie.net/yandere-simulator/images/1/1a/Teacher-0.png/revision/latest/scale-to-width-down/683?cb=20190423040107",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "When entering the Faculty Room, a pop up will appear showing Ayano Aishi the main purpose of the teachers. ",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://static.wikia.nocookie.net/yandere-simulator/images/1/1a/Teacher-0.png/revision/latest/scale-to-width-down/683?cb=20190423040107",
+                        "text": "Teachers can apprehend Ayano when she gets caught for murder or lose a fight when attempting to kill them. Teachers can also send you to the Counselor's Office if you do one of the five following things:",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "They see Ayano visibly insane or laughing hysterically.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "They see Ayano wearing bloody clothing.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "They see Ayano carrying a weapon around.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "They see Ayano attempting to steal something.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "11111111111",
+						"text": "They see Ayano hanging around in the Faculty Room after previous warnings, or hanging around in their classroom (excluding her classroom) after previous warnings.",
+						"native": false,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "Yandere Vision",
+				"image": "https://static.wikia.nocookie.net/yandere-simulator/images/e/e4/YandereVision1.png/revision/latest/scale-to-width-down/680?cb=20190423040815",
+				"detail": [
+
+					{
+						"image": "111111111111111111",
+						"text": "When holding down the Left Ctrl button long enough, Yandere Vision will be activated along with a pop up.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://static.wikia.nocookie.net/yandere-simulator/images/e/e4/YandereVision1.png/revision/latest/scale-to-width-down/680?cb=20190423040815",
+						"text": "It shows the player on how to use it to search for important things (students, blood, mops, buckets, sinks, corpses, etc.).",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+					{
+						"image": "111111111111111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			}
+		]
+	}
+}
