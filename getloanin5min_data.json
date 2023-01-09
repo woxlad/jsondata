@@ -1,0 +1,481 @@
+{
+	"Ads": {
+		"show_ads": true,
+		"bannerAd": "admob",
+		"InterAd": "admob",
+		"NativeAd": "admob",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native": "ca-app-pub-3940256099942544/2247696110",
+		"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"ironsource_api": "1011dee21",
+		"max_banner": "$$$$$$$$$",
+		"max_inter": "$$$$$$$",
+		"max_native": "$$$$$$$$$$$",
+		"unityTest": true,
+		"unityGameID": "4398793",
+		"unityBanner": "Banner",
+		"unityInter": "Inter",
+		"intersitial_click_activites": 3,
+		"intersitial_click_list": 3
+
+	},
+
+	"Data": {
+		"btn_more_title": "More",
+		"btn_more_url": "https://www.google.com/",
+
+
+		"items_data": [{
+				"title": "Car Title Loan Requirements",
+				"image": "https://www.badcredit.org/wp-content/uploads/2019/10/Title-Loan-Alternatives-Feat.jpg",
+				"detail": [{
+						"image": "https://www.greedyrates.ca/wp-content/uploads/2019/04/Installing-GPS-for-Vehicle-Title-Loan-394x222.jpg",
+						"text": "Requirements You DO Need For a Title Loan*:",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "Your Personal Details – Be ready to give us your basic details, such as but not limited to name, email and phone number.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.badcredit.org/wp-content/uploads/2019/11/Car-Title-Loans-for-Bad-Credit-Feat.jpg",
+						"text": "With this, we can offer better customer service and quicker communication during your car title loan process.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "Your Car’s Details – How Do You Value a Car for a Title Loan?",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Give us the model, year, make and mileage of your private car to appraise the title loan value of the car you’ll be using for collateral with an auto title loan.-- For us to find out how much can you get for a title loan and check its condition, send us some photos of the car.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Car Title – Your car title must be lien-free with your name on it to get a title loan. You must be listed as your vehicle’s registered owner on the title.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "The car title needs to be under your name to use as collateral. Contact us if you do not have a title – maybe we can help.You can’t get a title loan without the title, but maybe we can help by transferring the ownership to your name at the DMV, getting your auto registered or obtaining an up to date DMV registration.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Identification – What documents do you need for a title loan?",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "You will need to show a driver’s license, a state ID, or your international passport.Show us your ID so we can check if your private details are the same as on all of your documents.Your documents for identification will help in verifying your identity. According to the California Contract Law, you must be at least 18 and be a California resident.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+
+
+					{
+						"image": "11111111111",
+						"text": "Regular Income – For us to fund your loan, we need proof that you have the ability to pay the title loan.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "We will check that you have a way to pay the loan off. This can be from your regular paycheck, an ongoing business or benefits. Show us proof such as a bank statement, social security payments or a job pay stub.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+
+					{
+						"image": "11111111111",
+						"text": "References – You will need to provide three personal references.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Include their names, relationships, phone numbers and addresses for all references.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+			{
+				"title": "What Are Car/Vehicle Title Loans?",
+				"image": "https://www.badcredit.org/wp-content/uploads/2019/11/Car-Title-Loans-for-Bad-Credit-Feat.jpg",
+				"detail": [{
+						"image": "https://revenuesandprofits.com/wp-content/uploads/2021/01/car-loan.jpg",
+						"text": "A car title loan lets you borrow money even if you have a low credit score, because you use your car or vehicle as security for the loan. When you apply for car title loans you pledge your car as collateral, and if you can’t pay back the loan, the lender can legally seize your car. For example, car title loans in Toronto are sometimes called vehicle collateral loans and can apply to other types of vehicles beyond your regular car, including motorcycles, boats, and recreational vehicles.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "How Do Car Title Loans Work?",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Car title loans work by letting you borrow against your car, so you’ll need equity in your car to fund the loan. This means if you financed your car when you purchased it, you’d need to owe less on the car than it is currently worth, or you need to have paid off your car loan completely. Most car title loans are for small amounts, ranging from $100 to $5,500, so you must have at least that much equity in your car to qualify.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.greedyrates.ca/wp-content/uploads/2019/04/Car-title-loan-394x222-1.jpg",
+						"text": "When you get a car title loan, most lenders will deposit the cash directly into your account, or provide you with a cheque. Then you begin making payments. During that time, you can still use your car as you normally would, but if you stop making your payments, your lender can seize your car and sell it to pay off the balance of the loan. Your lender will place a lien on your vehicle when you take out your car title loan, so it is legal for them to take your car for non-payment.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Interest Rates",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "The interest rates on car title loans in Ontario, for example, can be as high as 60% annually. This high interest rate can make repaying the loan very difficult, so it’s important to have a plan in place to pay the loan back before you sign on the dotted line.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Total Cost to Borrow Total Cost to Borrow",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Beyond the interest rate, many lenders will charge fees to administer the loan. Some fees include: Beyond the interest rate, many lenders will charge fees to administer the loan. Some fees include: Vehicle evaluation fees  2: Lien registration fees   3: Title search fees    4 : Accident search fees    5: Administration fees",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+
+					{
+						"image": "11111111111",
+						"text": "Losing Your Car",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Some car title loans require a lump sum payment at the end of the loan term. If you can’t pay off the loan at the end of the term, you may be able to roll over the debt into a new term, but this will incur extra fees. If you miss your payments or default on your loan, your lender will seize your car and sell it to recoup the cost of the loan. If the car sells for more than the amount left on your loan, you will receive the profits of the sale. There are fees associated with this process. In some provinces, if the car sells for less than the remaining loan balance, you will have to pay the lender the difference.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "How to Get Approved for a Car Title Loan",
+				"image": "https://www.lendingtree.com/content/uploads/2019/05/car-title-loans-image.jpg",
+				"detail": [
+
+					{
+						"image": "11111111111",
+						"text": "Lenders of car title loans might be different than lenders of other more commonly known types of loans. For example, car title loans in Toronto are not available from banks or credit unions. Instead, you’ll find vehicle title loans at storefront cash stores and online. You can shop for a car title loan online with Loans Canada, and then fill out a short form about your financial background. After a quick credit check, you’ll be offered options for car title loans in your province that you can apply for right away.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Since you’re using your car as collateral for the loan, you can get approved for a car title loan even if you have a low credit score or a low income. When you apply for a car title loan you’ll need the following information:",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "1: Proof of ownership",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.lendingtree.com/content/uploads/2019/05/car-title-loans-image.jpg",
+						"text": "2: Proof that the car is paid off",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "3: Proof of insurance",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.lendingtree.com/content/uploads/2019/05/car-title-loans-image.jpg",
+						"text": "4: Your driver’s license",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "5: A valid car inspection",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "6: Proof of permanent residency",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.badcredit.org/wp-content/uploads/2019/11/Car-Title-Loans-for-Bad-Credit-Feat.jpg",
+						"text": "7: A bank statement",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+			{
+				"title": "Pros and Cons of Car Title Loans",
+				"image": "https://wittysparks.com/wp-content/uploads/2020/01/car-title-loans.jpg",
+				"detail": [
+
+					{
+						"image": "11111111111",
+						"text": "1 Pros",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "1-a:  Access to much-needed cash if you don’t qualify for other loan options",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "1-b: Approval is fast",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://i0.wp.com/southfloridareporter.com/wp-content/uploads/2020/03/sale-agent-handshake-deal-agreement-successful-car-loan-contract-with-customer-sign-agreement-contract-insurance-car-concept_18497-1258.jpg",
+						"text": "1-c: A low credit score or low income is not important if you have equity in your car",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "2: Cons",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://wittysparks.com/wp-content/uploads/2020/01/car-title-loans.jpg",
+						"text": "2-a: If you can’t make your payments, your vehicle will be seized",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "2-b: The interest rate is as high as 60% per year",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://logicalscience.com/wp-content/uploads/2020/10/Everything-You-Need-To-Know-About-Car-Title-Loans-758x469.jpg",
+						"text": "2-c: You might not be able to pay off the loan early",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+
+					{
+						"image": "11111111111",
+						"text": "2-d: You have to pay many fees for loan approval",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "2-e: Your car may be outfitted with a GPS or car immobilizer",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+
+
+
+			{
+				"title": "Alternatives to Car Title Loans",
+				"image": "https://www.phoenixtitleloans.com/wp-content/uploads/2018/03/Title-Loan.jpg",
+				"detail": [
+
+					{
+						"image": "11111111111",
+						"text": "Though a car title loan might be tempting when you’re in a financial tight spot, there are other solutions that could be more financially prudent. Before taking out a car title loan, we encourage you to consider a few other ways to borrow money:",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Balance Transfer Credit Cards",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "If you need money to pay off debt, a better option might be to apply for a 0% balance transfer credit card. A balance transfer credit card lets you transfer credit card debt from a high-interest credit card to one offering a low-interest rate for a promotional period, usually 6-10 months. Balance transfer credit cards are a good way to reduce your interest rate so you can focus all your financial energy toward paying off debt, without worrying about accruing more debt during the card’s promotional period.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Personal Loans",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://www.phoenixtitleloans.com/wp-content/uploads/2018/03/Title-Loan.jpg",
+						"text": "A personal loan can be a good way to access some much-needed cash at a reasonable interest rate. Personal loans can be unsecured, meaning they don’t require collateral, and the interest rate will likely be lower than what is available via a car title loan.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "Extra Income",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "If you need extra money, earning extra income through a second job or freelancing is a good way to avoid or get out of debt. While working more than 40 hours per week isn’t a pleasant experience, it’s preferable to paying the high interest rates associated with vehicle title loans.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+
+					{
+						"image": "11111111111",
+						"text": "Cutting Costs",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+
+					{
+						"image": "https://revenuesandprofits.com/wp-content/uploads/2021/01/car-loan.jpg",
+						"text": "Creating a better budget and cutting some unnecessary costs will help free up extra cash and get you through your rough patch. Frugal living isn’t fun, but neither is paying back the thousands of dollars in interest charges associated with vehicle title loans.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+
+					{
+						"image": "11111111111",
+						"text": "Downgrading Your Car",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "If you’re in a financial jam, remember that your car is an asset that you can sell for money. If you have equity in your car, consider selling it and downgrading to an entry-level vehicle, or forgoing a vehicle altogether and taking public transit. The proceeds of the sale could help you restart your financial life, without incurring additional debt.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "Final Word",
+				"image": "https://www.tempepawnandgoldllc.com/wp-content/uploads/2013/04/car-title-loans-online.jpg",
+				"detail": [
+
+					{
+						"image": "https://tfctitleloans.com/wp-content/uploads/2019/01/title-loans.jpg",
+						"text": "Taking out a car title loan is an expensive solution, but sometimes it’s necessary if you need quick debt relief. Make sure you consider all other options before resorting to a car title loan, and if you do take one out, make sure you have a solid plan in place to make your repayments so that you avoid the risk of having your car seized.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			}
+		]
+	}
+}
