@@ -16,9 +16,9 @@
 
 
 "adsSwitch detail ": " 1:admob 2:applovin  0:auto",
-"adsSwitchInter": "2",
-"adsSwitchBanner": "2",
-"adsSwitchReward": "2"
+"adsSwitchInter": "0",
+"adsSwitchBanner": "0",
+"adsSwitchReward": "0"
 
 
 }
