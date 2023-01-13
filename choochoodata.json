@@ -1,5 +1,5 @@
 {
-	"version": "test app v20",
+	"version": "choo server v1",
 
 
 
@@ -10,11 +10,11 @@
 		"appopen": "",
 
 "applovinsdk": "RJ8mZelv26OxA43ll2MRxm8v8aNAosI0XTA6JISKRJuTuJs9PKCI_TxwoatxwbKJ4LtuTbrxRSvGZuBg6InDAB",
-"applovinbanner": "d47dc6b1bce7e859",
-"applovininter": "993fc06a615af64f",
-"applovinreward": "c5d8a8db2578208f",
+"applovinbanner": "691f119ec70b12eb",
+"applovininter": "f4db500ea252c538",
+"applovinreward": "2efdfd572a23ca24",
 
-"adscounter": "1",
+"adscounter": "0",
 
 "adsSwitchInter details ": "0 auto 1 admob 2 applovin",
 
