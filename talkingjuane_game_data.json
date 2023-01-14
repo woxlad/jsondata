@@ -1,0 +1,24 @@
+{
+	"version": "talking v3",
+
+"applovinsdk": "RJ8mZelv26OxA43ll2MRxm8v8aNAosI0XTA6JISKRJuTuJs9PKCI_TxwoatxwbKJ4LtuTbrxRSvGZuBg6InDAB",
+"applovinbanner": "9face4cffcca2f10",
+"applovininter": "e1b9647d126f479b",
+"applovinreward": "12bf46a39682ac06",
+
+
+"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+"admobInterId": "ca-app-pub-3940256099942544/1033173712",
+"admobReward": "ca-app-pub-3940256099942544/5224354917",
+"admobAppOpenid": "ca-app-pub-3940256099942544/3419835294",
+
+"adscounter": "0",
+
+
+"adsSwitch detail ": " 1:admob 2:applovin  0:auto",
+"adsSwitchInter": "0",
+"adsSwitchBanner": "0",
+"adsSwitchReward": "0"
+
+
+}
