@@ -1,6 +1,6 @@
 {
 	"Ads": {
-		"show_ads": true,
+		"show_ads": false,
 		"bannerAd": "unity",
 		"InterAd": "admob",
 		"NativeAd": "admob",
