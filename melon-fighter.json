@@ -1,10 +1,10 @@
 {
-	"version": "mounir v2.1",
+	"version": "melon v2.1",
 
 "applovinsdk": "RJ8mZelv26OxA43ll2MRxm8v8aNAosI0XTA6JISKRJuTuJs9PKCI_TxwoatxwbKJ4LtuTbrxRSvGZuBg6InDAB",
-"applovinbanner": "9face4cffcca2f10",
-"applovininter": "e1b9647d126f479b",
-"applovinreward": "12bf46a39682ac06",
+"applovinbanner": "b9ee00399c97953d",
+"applovininter": "389252731f7a34f7",
+"applovinreward": "614df155c351da08",
 
 
 "admobbannerId": "ca-app-pub-3940256099942544/6300978111",
@@ -16,9 +16,9 @@
 
 
 "adsSwitch detail ": " 1:admob 2:applovin  0:auto",
-"adsSwitchInter": "0",
-"adsSwitchBanner": "0",
-"adsSwitchReward": "0"
+"adsSwitchInter": "2",
+"adsSwitchBanner": "2",
+"adsSwitchReward": "2"
 
 
 }
