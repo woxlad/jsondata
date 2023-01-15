@@ -1,5 +1,5 @@
 {
-	"version": "mounir v3",
+	"version": "ttt v3",
 
 
 
@@ -18,9 +18,9 @@
 
 "adsSwitchInter details ": "0 auto 1 admob 2 applovin",
 
-"adsSwitchInter": "1",
-"adsSwitchBanner": "1",
-"adsSwitchReward": "1"
+"adsSwitchInter": "0",
+"adsSwitchBanner": "0",
+"adsSwitchReward": "0"
 	
 
 
