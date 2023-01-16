@@ -1,0 +1,334 @@
+{
+	"Ads": {
+		"show_ads": false,
+		"bannerAd": "unity",
+		"InterAd": "admob",
+		"NativeAd": "admob",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native": "ca-app-pub-3940256099942544/2247696110",
+		"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"ironsource_api": "1011dee21",
+		"max_banner": "6db1491f2e21970c",
+		"max_inter": "812b82d9e0c7cb7f",
+		"max_native": "64ea2f2ef41edb34",
+		"unityTest": true,
+		"unityGameID": "4398793",
+		"unityBanner": "Banner",
+		"unityInter": "Inter",
+		"intersitial_click_activites": 1,
+		"intersitial_click_list": 3
+
+	},
+
+	"Data": {
+		"btn_more_title": "More",
+		"btn_more_url": "https://www.google.com/",
+
+
+		"items_data": [{
+				"title": "Features of garten of banban Game",
+				"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2232840/ss_572b967dd4ffdbfce63316fe7c31ea5c5bd5d616.1920x1080.jpg?t=1673163599",
+				"detail": [{
+						"image": "1111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "With all your passion for playing garten of banban Game, you hands are not supposed to be limited on a tiny screen of your phone",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "Play like a pro and get full control of your game with keyboard and mouse. MEmu offers you all the things that you are expecting",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "Download and play garten of banban Game on PC. Play as long as you want, no more limitations of battery, mobile data and disturbing calls.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "The brand new MEmu 8 is the best choice of playing garten of banban Game on PC. Prepared with our expertise, the exquisite preset keymapping system makes garten of banban Game a real PC game.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "MEmu multi-instance manager makes playing 2 or more accounts on the same device possible. And the most important, our exclusive emulation engine can release full potential of your PC,",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "11111111111",
+						"text": "make everything smooth.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+			{
+				"title": "Screenshots & Video of garten of banban Game",
+				"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2232840/ss_562f9483f0af86f9e0821968ade6ff0acd9b13a5.1920x1080.jpg?t=1673163599",
+				"detail": [{
+						"image": "1111111",
+						"text": "Download garten of banban Game on PC with MEmu Android Emulator.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://cdn.akamai.steamstatic.com/steam/apps/2232840/ss_9ecf9c5b9e0ec3d2fc775af0661177ae60995ea7.1920x1080.jpg?t=1673163599",
+						"text": " Enjoy playing on big screen. garten of banban",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://cdn.akamai.steamstatic.com/steam/apps/2232840/ss_f3926e1be636f58ca0e2e89def2a4a4f6c9a516e.1920x1080.jpg?t=1673163599",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "11111111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "Game Info",
+				"image": "https://cdn.akamai.steamstatic.com/steam/apps/2232840/ss_8fbf4bbeca5373dc6fd3da918b5c6131922ce79c.1920x1080.jpg?t=1673163599",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "Talking Juan",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "t's a funny game talkin to cat and enjoy your time with the game.",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			},
+
+
+
+
+			{
+				"title": "Features of garten of banban Game",
+				"image": "https://cdn.akamai.steamstatic.com/steam/apps/2262770/ss_9c4efc355266afe86e7cb6025c7d283df3217697.1920x1080.jpg?t=1672867069",
+				"detail": [{
+						"image": "1111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "With all your passion for playing garten of banban Game, you hands are not supposed to be limited on a tiny screen of your phone",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://cdn.akamai.steamstatic.com/steam/apps/2232840/ss_8fbf4bbeca5373dc6fd3da918b5c6131922ce79c.1920x1080.jpg?t=1673163599",
+						"text": "Play like a pro and get full control of your game with keyboard and mouse. MEmu offers you all the things that you are expecting",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "Download and play garten of banban Game on PC. Play as long as you want, no more limitations of battery, mobile data and disturbing calls.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "The brand new MEmu 8 is the best choice of playing garten of banban Game on PC. Prepared with our expertise, the exquisite preset keymapping system makes garten of banban Game a real PC game.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "MEmu multi-instance manager makes playing 2 or more accounts on the same device possible. And the most important, our exclusive emulation engine can release full potential of your PC,",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "11111111111",
+						"text": "make everything smooth.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+			{
+				"title": "walkthrough",
+				"image": "https://cdn.akamai.steamstatic.com/steam/apps/2232840/ss_562f9483f0af86f9e0821968ade6ff0acd9b13a5.1920x1080.jpg?t=1673163599",
+				"detail": [{
+						"image": "1111111",
+						"text": "Download garten of banban Game on PC with MEmu Android Emulator.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": "",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://cdn.akamai.steamstatic.com/steam/apps/2232840/ss_4776f55d0d1684fb9bf295ca84ec5d965d42966d.1920x1080.jpg?t=1673163599",
+						"text": " Enjoy playing on big screen. garten of banban",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "https://play-lh.googleusercontent.com/7L3IuG5SuqnYE-TtvFg6SSrMHd9wrDU-gWjVnw08B-lILCLFYLVOzlDpOv5QbIccNK8=w2560-h1440-rw",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "11111111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					
+					{
+						"image": "11111111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+
+				]
+			},
+
+
+
+
+			{
+				"title": "Why Use MEmu for garten of banban Game ",
+				"image": "https://play-lh.googleusercontent.com/-SPgCEKrBb0X-kuCgkMljNjM4QmRhNDc0i8mJQI0vMJyGaActBRDxS8r1x1q9fxqhR_T=w2560-h1440-rw",
+				"detail": [
+
+					{
+						"image": "1111111",
+						"text": "MEmu Play is the best Android emulator and 100 million people already enjoy its superb Android gaming experience.",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "",
+                        "text": " The MEmu virtualization technology empowers you to play thousands of Android games smoothly on your PC, even the most graphic-intensive ones.",					
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					},
+					{
+						"image": "111111111",
+						"text": "",
+						"native": true,
+						"cpa_title": "",
+						"cpa_url": "https://google.com"
+					}
+				]
+			}
+
+
+
+
+			
+		]
+	}
+}
