@@ -1,0 +1,61 @@
+{
+    
+  "AppRedirect": {
+    "status": "off",
+    "redirect_link": "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  },
+  
+  "AdsController": {
+      
+    "AdNetwork"              : "admob",
+    "IntervalClick"          : 1,
+    "AdMob_ID"               : "pub-3940256099942544",
+    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    
+    "Facebook_Banner"         : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_Native"         : "692961278482629_857100538735368",
+    
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_Native"         : "a5f235ba1320fb35"
+  },
+  
+  "CpaOffer": {
+    "status": "off",
+    "cpa_link": "https://github.com/saidmotya"
+  },
+  
+ 
+  "MyList": [
+    {
+      "title": "What is Bondee?",
+      "image": "https://onecms-res.cloudinary.com/image/upload/s--xDuDkMIW--/c_crop,h_480,w_640,x_0,y_0/c_fill,g_auto,h_622,w_830/f_auto,q_auto/v1/mediacorp/cna/image/2023/01/27/bondee2_0.jpg?itok=3Ik1Dffh",
+      "paragraph" : "Created by Singapore-based Metadream, Bondee is a social networking app that provides a virtual space for you and your friends to chat, hang out, and see what each other is up to. You can invite up to 50 friends to your plaza.Primarily, Bondee allows you to create your own avatar and room. From there, you can select from a variety of moods and activities to set up as your personal status for everyone to see. It’s self-expression like no other. Think of it as a mix between The Sims and Snapchat.Not even a full month since its release, Bondee has already topped the app charts where available. Been meaning to see what the hype is all about? Below is the complete SPOT.ph guide to building your very own Bondee world."
+      
+    },
+    {
+      "title": "Where to Download Bondee",
+      "image": "https://mustsharenews.com/wp-content/uploads/2023/01/Spore-Based-App-Bondee-Accused-Of-Credit-Card-Info-Leaks-Company-Denies-Rumours-1200x675.jpg",
+     "paragraph" : "You can download Bondee on both iOS and Android. Take note that Bondee is currently only available in select countries in Asia, namely Japan, South Korea, Malaysia, Philippines, Singapore, Taiwan, and Thailand.However, this doesn’t mean people elsewhere can’t experience Bondee. If you’re keen to try it ahead of its release in your country, you can opt to connect to a VPN or download an APK of the app to download Bondee."
+
+    },
+    {
+      "title": "How to Create a Bondee Account",
+      "image": "http://images.gmanews.tv/webpics/2023/01/bondee_2023_01_29_18_43_56.jpg",
+      "paragraph" : "Creating a Bondee account is pretty straightforward. Sign up on the app by entering your phone number and the verification code sent to your phone number. Don’t forget to read through and agree to the Terms of Service and Privacy Policy.Next, select your birthday, enter your name, and set a password. You need to be at least 13 years old to use Bondee.You also need to think of a Bondee ID that hasn’t been taken yet. It’s similar to a social media username on Twitter or Instagram, where your friends can simply type your ID to find you. The ID you type in will be permanent, so choose wisely."
+    },
+    {
+      "title": "How to Customize an Avatar on Bondee",
+      "image": "https://images.summitmedia-digital.com/spotph/images/2023/01/27/bondee-1200-1674788197.jpg",
+      "paragraph" : "Once the boring stuff is out of the way, you can begin customizing your avatar into a mini-me version of yourself. You can select your corresponding skin tone, face, hair, eyes, and more. Of course, it isn't a requirement for your avatar to look exactly like you. This app serves as an escapism, after all, so feel free to customize yours however you wish.Some clothing items are also only available for a limited time, so make sure to try them out before they become in-app purchases in the future. A quick tip: don’t spend too much time perfecting your avatar, since you can still change your appearance whenever you want."
+    },
+     {
+      "title": "How to Design a Room on Bondee",
+      "image": "https://images.summitmedia-digital.com/spotph/images/2023/01/26/bondee-hive-1674730977.jpg",
+      "paragraph" : "Designing a room on Bondee has a similar process to how your avatar is made, but it can be tricky to know where to begin as a newbie. Go to your profile by clicking the rightmost icon on the bottom screen. You'll find a blank room for you to click on to start editing. Proceed to select a wall color, furniture, frames, windows, and more. Don’t forget to save your creation before you exit."
+    }
+  ]
+}
