@@ -7,18 +7,18 @@
 "applovinreward": "614df155c351da08",
 
 
-"admobbannerId": "ca-app-pub-9668370238889734/7333065076",
-"admobInterId": "ca-app-pub-9668370238889734/3202248374",
-"admobReward": "ca-app-pub-9668370238889734/1697595013",
-"admobAppOpenid": "ca-app-pub-9668370238889734/8381858211",
+"admobbannerId": "ca-app-pub-5225840637937575/2503226443",
+"admobInterId": "ca-app-pub-5225840637937575/4746246401",
+"admobReward": "ca-app-pub-5225840637937575/2836051322",
+"admobAppOpenid": "ca-app-pub-5225840637937575/3957561300",
 
 "adscounter": "0",
 
 
 "adsSwitch detail ": " 1:admob 2:applovin  0:auto",
-"adsSwitchInter": "2",
-"adsSwitchBanner": "2",
-"adsSwitchReward": "2"
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1"
 
 
 }
