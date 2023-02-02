@@ -1,0 +1,60 @@
+{
+    
+  "AppRedirect": {
+    "status": "off",
+    "redirect_link": "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  },
+  
+  "AdsController": {
+      
+    "AdNetwork"              : "admob",
+    "IntervalClick"          : 1,
+    "AdMob_ID"               : "pub-3940256099942544",
+    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    
+    "Facebook_Banner"         : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_Native"         : "692961278482629_857100538735368",
+    
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_Native"         : "a5f235ba1320fb35"
+  },
+  
+  "CpaOffer": {
+    "status": "on",
+    "cpa_link": "https://github.com/saidmotya"
+  },
+  
+ 
+  "MyList": [
+    {
+      "title": "Funny chat",
+      "image": "https://zonekapp.com/AndroidStudio/FakeAssets/item_test.png",
+      "paragraph" : "A chat application makes it easy to communicate with people anywhere in the world by sending and receiving messages in real time. With a web or mobile chat app, users are able to receive the same engaging and lively interactions through custom messaging features, just as they would in person. This also keeps users conversing on your platform instead of looking elsewhere for a messaging solution. Whether it’s private chat, group chat, or large-scale chat, adding personalized chat features to your app can help ensure that your users have a memorable experience."
+      
+    },
+    {
+      "title": "Meet new blond girls",
+      "image": "https://zonekapp.com/AndroidStudio/FakeAssets/groupe_blond.png",
+       "paragraph" : "More people are embracing virtual experiences as a way to connect with one another. From gamer group chat messaging in a live chat to e-learning and team communication using chat rooms and file sharing among co-workers, online chat applications have grown largely in popularity because of their ability to retain the feel of a real-time conversation, virtually. However, when thinking ahead to how you want to build your web app, a vital thing to consider is your customer's experience. What are the essential features and functionalities that are needed to make an engaging real-time chat app that will lead to user retention? Let’s dive in."
+    },
+    {
+      "title": "Do you love chines girls",
+      "image": "https://zonekapp.com/AndroidStudio/FakeAssets/groupe_ch.png",
+      "paragraph" : "when thinking ahead to how you want to build your web app, a vital thing to consider is your customer's experience. What are the essential features and functionalities that are needed to make an engaging real-time"
+    },
+    {
+      "title": "+100 russian girls",
+      "image": "https://zonekapp.com/AndroidStudio/FakeAssets/groupe_ru.png",
+      "paragraph" : "Messaging features, just as they would in person. This also keeps users conversing on your platform instead of looking elsewhere for a messaging solution."
+    },
+     {
+      "title": "Discover sportif girls",
+      "image": "https://zonekapp.com/AndroidStudio/FakeAssets/groupe_sp.png",
+      "paragraph" : "With a web or mobile chat app, users are able to receive the same engaging and lively interactions through custom messaging features, just as they would in person."
+    }
+  ]
+}
