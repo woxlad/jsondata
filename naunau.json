@@ -1,0 +1,61 @@
+{
+    
+  "AppRedirect": {
+    "status": "off",
+    "redirect_link": "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  },
+  
+  "AdsController": {
+      
+    "AdNetwork"              : "admob",
+    "IntervalClick"          : 1,
+    "AdMob_ID"               : "pub-3940256099942544",
+    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    
+    "Facebook_Banner"         : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_Native"         : "692961278482629_857100538735368",
+    
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_Native"         : "a5f235ba1320fb35"
+  },
+  
+  "CpaOffer": {
+    "status": "off",
+    "cpa_link": "https://play.google.com/store/apps/details?id=com.hello.zuttomo"
+  },
+  
+ 
+  "MyList": [
+    {
+      "title": "naunau walkthrough",
+      "image": "https://play-lh.googleusercontent.com/N4dYoE77MeqTxT1GB6G3A96hbbSzIkFWgcAukGalVH_VYlrK8U7mPVHytl7tEYTj0Ac",
+      "paragraph" : "Over 2.4 million downloads! NauNau, the location sharing app that replaces Zenly!Create your own world map with your family and friends!"
+      
+    },
+    {
+      "title": "see your friends",
+      "image": "https://www.androidfreeware.net/thumbnails/q1YqySzJSVWyUvJLLAUihRqFmFJT4-SkmFJLA1OTmFJjAzMLMAlhJ4JIk2QQaZECZpspOAZ4K7jkl-fl5CemKOkoZeamA42L0QfSRjH6yfm5uhmpOTn5ulWlJSX5ufl6WQXpSrUA/download-apk",
+     "paragraph" : "See what your friends are doing now!See your friends' location information in real time and find out if they are at home, at school, or at work. See your friends' charge, steps, and speed in real time."
+
+    },
+    {
+      "title": "find friends",
+      "image": "https://play-lh.googleusercontent.com/spB7T9Pdkj__KI8PLAbkRh9v17DJXyH-vEeUzpqh_BjkICD8HrW3ba36ne9HJeGbcA",
+      "paragraph" : "Find friends who are playing Find friends who are playing together. If you find a friend nearby, send them a message and join them!"
+    },
+    {
+      "title": "call friends",
+      "image": "https://play-lh.googleusercontent.com/gcfP6Wi8nscIBp78vse9rT1F1QzIAMkGG_y0w3fWvsCdHacCcLggOzEQQg9q2OGRTg=w800-h500",
+      "paragraph" : "Call your friends at home!Send stamps to your friends who are at home. If you find a friend who is not busy, go hang out with them right away!"
+    },
+     {
+      "title": "are you ready?",
+      "image": "https://play-lh.googleusercontent.com/mnHi0nr5KIy76N6NAImrWjWz9mhZYjLb59e7eTwV5lNKwDt6V1xAl3zxZmdbUOy3vb0=w327-h184-rw",
+      "paragraph" : "Are you ready to go? Create your own world map with NauNau."
+    }
+  ]
+}
