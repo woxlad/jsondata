@@ -1,0 +1,106 @@
+{
+    
+  "AppRedirect": {
+    "status": "off",
+    "redirect_link": "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  },
+  
+  "AdsController": {
+      
+    "BannerNetwork"              : "admob",
+    "InterstitialNetwork"        : "admob",
+    "NativeNetwork"              : "admob",
+    
+    "IntervalClick"          : 1,
+    "AdMob_ID"               : "pub-3940256099942544",
+    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    
+    "Facebook_Banner"         : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_Native"         : "692961278482629_857100538735368",
+    
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_Native"         : "a5f235ba1320fb35"
+  },
+  
+ 
+  "MyList": [
+    {
+      "title": "what is mt manager?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcyiXkQvOwAqPbo-hQXuHzRBdXJibxNyIytg&usqp=CAU",
+      "native" : true,
+      "cpa_title" : "Download link",
+      "cpa_url"   : "https://www.google.com/",
+      "paragraph": [
+        "1- MT Manager is a file manager software designed specifically for Android devices. It provides an easy-to-use interface for managing and organizing the files stored on an Android device, including the installation and management of APK files.",
+        "2- One of the key features of MT Manager is its ability to manage APK files, which are the package files used to distribute and install Android apps. With MT Manager, users can easily install APK files on their Android devices without having to go through the Google Play Store. This can be useful for installing apps that are not available in the official app store, or for installing older versions of apps that may no longer be available in the store.",
+        "3- In addition to managing APK files, MT Manager also provides a range of other file management features. It allows users to browse and manage the files stored on their Android devices, including the ability to move, copy, rename, and delete files. The software also provides a simple interface for managing the apps installed on an Android device, including the ability to update, uninstall, and manage app permissions.",
+        "4- Overall, MT Manager is a useful tool for anyone who needs to manage and organize files on their Android device. Whether you're looking to install apps that aren't available in the official app store, or simply need a better way to manage the files stored on your device, MT Manager is a great choice. It provides a simple and user-friendly interface that makes file management on Android devices fast and easy."
+      ]
+	  
+	  
+    },
+    {
+      "title": "it is safe?",
+      "image": "https://cdn.modsofapk.com/wp-content/uploads/2021/06/MT-MANAGER-MOD-APK.jpg",
+      "native" : true,
+      "cpa_title" : "off",
+      "cpa_url"   : "https://www.google.com/",
+       "paragraph": [
+        "1- The safety of using MT Manager depends on the source from which you obtain it. Just like with any other software tool, downloading MT Manager from an untrusted or unreliable source can result in the installation of malware or other malicious software on your device.",
+        "2- However, if you obtain MT Manager from a reputable source, such as the official website or a trusted app store, it is generally considered to be safe to use. Before installing MT Manager, it is recommended to check the reviews and ratings of the app, as well as to verify that it has been developed by a reputable developer.",
+        "3- In addition, it's important to take steps to secure your device and protect your personal information. This may include regularly updating your operating system and using antivirus software, avoiding downloading apps or files from untrusted sources, and being cautious when giving apps permission to access sensitive data on your device.",
+        "4- In conclusion, MT Manager can be safe to use if you obtain it from a trusted source and take appropriate precautions to secure your device. Before using any software tool, it's important to evaluate the potential risks and to take the necessary steps to protect your device and personal information."
+      ]
+    },
+    {
+      "title": "how to install",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8tc8kAh3fryxd4ZrFR2SPs4e-HZmXG-E6HlhyPJCF1ra4bRD0gOhxlWml69Mzne0YYA&usqp=CAU",
+      "native" : true,
+      "cpa_title" : "off",
+      "cpa_url"   : "https://www.google.com/",
+      "paragraph": [
+        "1- Download MT Manager: The first step is to download MT Manager. You can obtain the app from a trusted app store, such as the Google Play Store, or directly from the developer's website.",
+        "2- Enable app installations from unknown sources: If you're installing MT Manager from a source other than the Google Play Store, you'll need to enable app installations from unknown sources in your device's security settings. To do this, go to the Security settings on your device, and toggle on the option to allow installations from unknown sources.",
+        "3- Install MT Manager: After you've enabled app installations from unknown sources, simply click on the downloaded MT Manager APK file to start the installation process. Follow the on-screen instructions to complete the installation.",
+        "4- Launch MT Manager: Once the installation is complete, you can launch MT Manager from your device's app drawer or home screen. You can now use the app to manage and organize the files on your Android device.",
+        "5- note:    Before installing any app, it is always recommended to check the reviews, ratings, and the developer's website to make sure that the app is legitimate and comes from a trustworthy source. This will help to protect your device and personal information from any potential risks or malware."
+
+
+	 ]
+    
+        
+    },
+    {
+      "title": "more info",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFeE88asfcTBbWxj_qOOSqrq_JanofAwYDQ-v7R7tLwsSbIs7xJlFiLMmZhonBk_aVRts&usqp=CAU",
+      "native" : true,
+      "cpa_title" : "off",
+      "cpa_url"   : "https://www.google.com/",
+      "paragraph": [
+        "1- Compatibility: Make sure that your Android device meets the minimum system requirements for MT Manager. You can usually find this information on the developer's website or in the app's description in the app store.",
+        "2- Internet connection: A stable internet connection is recommended when installing MT Manager, especially if you're downloading it from the app store or the developer's website.",
+        "3- Data backup: Before installing MT Manager, it's always a good idea to back up your device's important data, such as photos, contacts, and personal files. This will help to protect your data in case of any unforeseen issues during the installation process.",
+        "4- App permissions: When you install MT Manager, you'll be asked to grant the app certain permissions, such as access to your device's storage. It's important to carefully review these permissions and only grant the ones that are necessary for the app to function properly.",
+        "5- Verify the authenticity of the app:    Before installing MT Manager, you can verify its authenticity by checking the developer's website and checking for reviews and ratings in the app store. This will help to ensure that you are installing the legitimate app and not a fake or malicious version."
+	  
+	  ]
+        
+    },
+     {
+      "title": "additional steps",
+      "image": "https://droidbang.com/ifiles/9122_3292f4_mt-manager-android-56.png-orig/mt-manager-android-9.jpg",
+      "native" : true,
+      "cpa_title" : "Download link",
+      "cpa_url"   : "https://www.google.com/",
+      "paragraph": [
+        " By following these additional steps, you can ensure a smooth and secure installation of MT Manager on your Android device."
+        
+      ]
+         
+     }
+  ]
+}
