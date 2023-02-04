@@ -1,0 +1,102 @@
+{
+    
+  "AppRedirect": {
+    "status": "off",
+    "redirect_link": "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  },
+  
+  "AdsController": {
+      
+    "BannerNetwork"              : "facebook",
+    "InterstitialNetwork"        : "admob",
+    "NativeNetwork"              : "applovin",
+    
+    "IntervalClick"          : 1,
+    "AdMob_ID"               : "pub-3940256099942544",
+    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    
+    "Facebook_Banner"         : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_Native"         : "692961278482629_857100538735368",
+    
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_Native"         : "a5f235ba1320fb35"
+  },
+  
+ 
+  "MyList": [
+    {
+      "title": "Warlito Injector APK",
+      "image": "https://apkaward.net/wp-content/uploads/2023/02/warlito-gaming-injector-min-1.jpg",
+      "native" : true,
+      "cpa_title" : "Download link",
+      "cpa_url"   : "https://www.google.com/",
+	  "image": "https://zonekapp.com/AndroidStudio/FakeAssets/item_test.png",
+      "paragraph": [
+        "1- If you love playing Mobile Legends, you should download Warlito Tools APK today! Enjoy all the best skins from many heroes and other things now!",
+        "2- There are a lot of fun games to play right now that you can enjoy. If you’re someone who loves battle royale, there are a lot of these games available.",
+        "3- There are also different types of games that you can play now to let you have fun.",
+        "4- If you’re into MOBA, there’s the ever-popular Mobile Legends game. With Warlito Injector, you can even get all the skins for free right now without any costs!"
+      ]
+    },
+    {
+      "title": "Enjoy ML More",
+      "image": "https://techbigs.com/uploads/2022/2/warlito-injector-apk.jpg",
+      "native" : true,
+      "cpa_title" : "off",
+      "cpa_url"   : "https://www.google.com/",
+       "paragraph": [
+        "1- There are a lot of incredible games today that you can download anytime you want. You can enjoy so many games today in various categories like shooting, racing, strategy, simulation, puzzle, and many more. But if you’re into MOBA games, there are many of them to choose from.",
+        "2- One of the more popular choices is Mobile Legends, as it’s primarily famous in Asia. Today, you don’t have to pay anything to get a lot of skins for free! You only need to download a specific app.",
+        "3- There are a lot of skins you can buy today in Mobile Legends. But with Warlito Injector, you’re able to get so many skins today without paying for anything. You can freely enjoy so many skins, which would make your gameplay even better.",
+        "4- These include Shura, Starfall Knight, Suzuhime, Blazing Force, Sakura Wishes, Peony Bloom, Soul Revelation, Eyes of Eternity, and many more. This app lets you enjoy all the skins for all heroes available today."
+      ]
+    },
+    {
+      "title": "Warlito Injector Highlights",
+      "image": "https://techbigs.com/uploads/2022/2/warlito-injector-apk-2022.jpg",
+      "native" : true,
+      "cpa_title" : "off",
+      "cpa_url"   : "https://www.google.com/",
+      "paragraph": [
+        "1- You can find and enjoy so many games to download right now. But with Warlito Injector, you’re able to enjoy so many features!",
+        "2- Enjoyable app – Many people right now play MOBA games regularly. If you’re one of them, you might have tried playing quite a few MOBA games as there are many of them.",
+        "3- One of the most popular ones includes Mobile Legends, as it’s a game for everyone. You can play with real people in this game and enjoy five versus five fights. In Warlito Injector, you’re able to unlock all the best skins today for free!",
+        "4- Skins in Mobile Legends are cosmetics that don’t add any stat to your hero. However, many people still buy them using real money since they make everything look more relaxed."
+      ]
+    
+        
+    },
+    {
+      "title": "Free skins ",
+      "image": "https://techbigs.com/uploads/2022/2/warlito-injector-apk-update.jpg",
+      "native" : true,
+      "cpa_title" : "off",
+      "cpa_url"   : "https://www.google.com/",
+      "paragraph": [
+        "1- Free skins – Many people today love playing various types of games. There are a lot of incredible games that you can play right now from various genres like racing, fighting, RPG, simulation, and more. But with MOBA, you can enjoy a strategy game full of action and adventure.",
+        "2- Mobile Legends is one of the most popular games under this category today. If you want to unlock many skins without paying, you can use Warlito Injector! This app lets you unlock so many skins for various heroes right now like Sakura Wishes, Blazing Force, Peony Bloom, Shura, Starfall Knight, Eyes of Eternity, Suzuhime, Soul Revelation, and many more.",
+        "3- Available for all heroes – There are a lot of incredible heroes in the world of Mobile Legends today. But with Warlito Injector, you’re able to enjoy unlocking all the skins available for various heroes today.",
+        "4- Many incredible heroes are available today, like Aurora, Alpha, Belerick, Cyclops, Esmeralda, Estes, Dyrroth, Edith, Hanabi, Hanzo, Granger, Grock, and many others more. Thanks to this app, you can unlock all the best skins for these today that you can enjoy for free."
+      ]
+        
+    },
+     {
+      "title": "Animations and emotes",
+      "image": "https://techbigs.com/uploads/2022/2/warlito-injector-apk-ml.jpg",
+      "native" : true,
+      "cpa_title" : "Download link",
+      "cpa_url"   : "https://www.google.com/",
+      "paragraph": [
+        "1- Animations and emotes – Aside from skins, you can also enjoy many animations and emotes available in the game. Thanks to this app, there’s no need to pay anything as it’s free!",
+        "2- Download Warlito Injector APK – Latest version",
+        "3- With Warlito Injector, you’re free to get every skin and emote today in the game. Feel free to download it now!",
+        "4- a vital thing to consider is your customer's experience. What are the essential features and functionalities that are needed to make an engaging real-time chat app that will lead to user retention? Let’s dive in"
+      ]
+         
+     }
+  ]
+}
