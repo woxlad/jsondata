@@ -1,0 +1,101 @@
+{
+    
+  "AppRedirect": {
+    "status": "off",
+    "redirect_link": "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  },
+  
+  "AdsController": {
+      
+    "BannerNetwork"              : "facebook",
+    "InterstitialNetwork"        : "admob",
+    "NativeNetwork"              : "applovin",
+    
+    "IntervalClick"          : 1,
+    "AdMob_ID"               : "pub-3940256099942544",
+    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    
+    "Facebook_Banner"         : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_Native"         : "692961278482629_857100538735368",
+    
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_Native"         : "a5f235ba1320fb35"
+  },
+  
+ 
+  "MyList": [
+    {
+      "title": "Funny chat",
+      "image": "https://zonekapp.com/AndroidStudio/FakeAssets/item_test.png",
+      "native" : true,
+      "cpa_title" : "Download link",
+      "cpa_url"   : "https://www.google.com/",
+      "paragraph": [
+        "1- Dynamic matches await you in the universe of the world-famous Warface shooter!....",
+        "2- Enjoy various combat modes easy-to-learn controls and amazing graphics....",
+        "3- Create a unique character and break into exciting multiplayer....",
+        "4- PvP matches designed specifically for mobile devices!...."
+      ]
+    },
+    {
+      "title": "Meet new blond girls",
+      "image": "https://zonekapp.com/AndroidStudio/FakeAssets/groupe_blond.png",
+      "native" : true,
+      "cpa_title" : "off",
+      "cpa_url"   : "https://www.google.com/",
+       "paragraph": [
+        "1- More people are embracing virtual experiences as a way to connect with one another. From gamer group chat messaging in a live chat",
+        "2- Learning and team communication using chat rooms and file sharing among co-workers, online chat applications have grown largely in popularity",
+        "3- Feel of a real-time conversation, virtually. However, when thinking ahead to how you want to build your web app",
+        "4- a vital thing to consider is your customer's experience. What are the essential features and functionalities that are needed to make an engaging real-time chat app that will lead to user retention? Let’s dive in"
+      ]
+    },
+    {
+      "title": "Do you love chines girls",
+      "image": "https://zonekapp.com/AndroidStudio/FakeAssets/groupe_ch.png",
+      "native" : true,
+      "cpa_title" : "off",
+      "cpa_url"   : "https://www.google.com/",
+      "paragraph": [
+        "1- More people are embracing virtual experiences as a way to connect with one another. From gamer group chat messaging in a live chat",
+        "2- Learning and team communication using chat rooms and file sharing among co-workers, online chat applications have grown largely in popularity",
+        "3- Feel of a real-time conversation, virtually. However, when thinking ahead to how you want to build your web app",
+        "4- a vital thing to consider is your customer's experience. What are the essential features and functionalities that are needed to make an engaging real-time chat app that will lead to user retention? Let’s dive in"
+      ]
+    
+        
+    },
+    {
+      "title": "+100 russian girls",
+      "image": "https://zonekapp.com/AndroidStudio/FakeAssets/groupe_ru.png",
+      "native" : true,
+      "cpa_title" : "off",
+      "cpa_url"   : "https://www.google.com/",
+      "paragraph": [
+        "1- More people are embracing virtual experiences as a way to connect with one another. From gamer group chat messaging in a live chat",
+        "2- Learning and team communication using chat rooms and file sharing among co-workers, online chat applications have grown largely in popularity",
+        "3- Feel of a real-time conversation, virtually. However, when thinking ahead to how you want to build your web app",
+        "4- a vital thing to consider is your customer's experience. What are the essential features and functionalities that are needed to make an engaging real-time chat app that will lead to user retention? Let’s dive in"
+      ]
+        
+    },
+     {
+      "title": "Discover sportif girls",
+      "image": "https://zonekapp.com/AndroidStudio/FakeAssets/groupe_sp.png",
+      "native" : true,
+      "cpa_title" : "Download link",
+      "cpa_url"   : "https://www.google.com/",
+      "paragraph": [
+        "1- More people are embracing virtual experiences as a way to connect with one another. From gamer group chat messaging in a live chat",
+        "2- Learning and team communication using chat rooms and file sharing among co-workers, online chat applications have grown largely in popularity",
+        "3- Feel of a real-time conversation, virtually. However, when thinking ahead to how you want to build your web app",
+        "4- a vital thing to consider is your customer's experience. What are the essential features and functionalities that are needed to make an engaging real-time chat app that will lead to user retention? Let’s dive in"
+      ]
+         
+     }
+  ]
+}
