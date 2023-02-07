@@ -7,23 +7,23 @@
   
   "AdsController": {
       
-    "BannerNetwork"              : "facebook",
-    "InterstitialNetwork"        : "applovin",
-    "NativeNetwork"              : "applovin",
+    "BannerNetwork"              : "11",
+    "InterstitialNetwork"        : "11",
+    "NativeNetwork"              : "11",
     
-    "IntervalClick"          : 1,
-    "AdMob_ID"               : "pub-3940256099942544",
-    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    "IntervalClick"          : 10,
+    "AdMob_ID"               : "pub-000000000000000000",
+    "AdMob_Banner"           : "ca-app-pub-000000000/0000000000000",
+    "AdMob_InterstitialAd"   : "ca-app-pub-000000000/0000000000000",
+    "AdMob_Native"           : "ca-app-pub-000000000/0000000000000",
     
-    "Facebook_Banner"         : "692961278482629_692963411815749",
-    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
-    "Facebook_Native"         : "692961278482629_857100538735368",
+    "Facebook_Banner"         : "600000000000000",
+    "Facebook_InterstitialAd" : "00000000000000000",
+    "Facebook_Native"         : "000000000000000000",
     
-    "Applovin_Banner"         : "107958043013ef24",
-    "Applovin_InterstitialAd" : "b79bf231ea7bb5a6",
-    "Applovin_Native"         : "372d4023e7648ab5"
+    "Applovin_Banner"         : "0000000000000",
+    "Applovin_InterstitialAd" : "0000000000000000",
+    "Applovin_Native"         : "00000000000000000000"
   },
   
  
@@ -31,7 +31,7 @@
     {
       "title": "Warlito Injector APK",
       "image": "https://apkaward.net/wp-content/uploads/2023/02/warlito-gaming-injector-min-1.jpg",
-      "native" : true,
+      "native" : false,
       "cpa_title" : "Download link",
       "cpa_url"   : "https://www.google.com/",
 	  "image": "https://zonekapp.com/AndroidStudio/FakeAssets/item_test.png",
@@ -45,7 +45,7 @@
     {
       "title": "Enjoy ML More",
       "image": "https://techbigs.com/uploads/2022/2/warlito-injector-apk.jpg",
-      "native" : true,
+      "native" : false,
       "cpa_title" : "off",
       "cpa_url"   : "https://www.google.com/",
        "paragraph": [
@@ -58,7 +58,7 @@
     {
       "title": "Warlito Injector Highlights",
       "image": "https://techbigs.com/uploads/2022/2/warlito-injector-apk-2022.jpg",
-      "native" : true,
+      "native" : false,
       "cpa_title" : "off",
       "cpa_url"   : "https://www.google.com/",
       "paragraph": [
@@ -73,7 +73,7 @@
     {
       "title": "Free skins ",
       "image": "https://techbigs.com/uploads/2022/2/warlito-injector-apk-update.jpg",
-      "native" : true,
+      "native" : false,
       "cpa_title" : "off",
       "cpa_url"   : "https://www.google.com/",
       "paragraph": [
@@ -87,7 +87,7 @@
      {
       "title": "Animations and emotes",
       "image": "https://techbigs.com/uploads/2022/2/warlito-injector-apk-ml.jpg",
-      "native" : true,
+      "native" : false,
       "cpa_title" : "Download link",
       "cpa_url"   : "https://www.google.com/",
       "paragraph": [
