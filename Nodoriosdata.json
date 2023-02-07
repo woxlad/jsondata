@@ -13,17 +13,17 @@
     
     "IntervalClick"          : 1,
     "AdMob_ID"               : "pub-3940256099942544",
-    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_Banner"           : "00000000000000000",
+    "AdMob_InterstitialAd"   : "00000000000000000",
+    "AdMob_Native"           : "00000000000000000",
     
-    "Facebook_Banner"         : "692961278482629_692963411815749",
-    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
-    "Facebook_Native"         : "692961278482629_857100538735368",
+    "Facebook_Banner"         : "00000000000000000",
+    "Facebook_InterstitialAd" : "00000000000000000",
+    "Facebook_Native"         : "00000000000000000",
     
-    "Applovin_Banner"         : "a5f235ba1320fb35",
-    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
-    "Applovin_Native"         : "a5f235ba1320fb35"
+    "Applovin_Banner"         : "00000000000000000",
+    "Applovin_InterstitialAd" : "00000000000000000",
+    "Applovin_Native"         : "00000000000000000"
   },
   
  
