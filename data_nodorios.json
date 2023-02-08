@@ -11,19 +11,19 @@
     "InterstitialNetwork"        : "admob",
     "NativeNetwork"              : "applovin",
     
-    "IntervalClick"          : 1,
-    "AdMob_ID"               : "",
-    "AdMob_Banner"           : "",
-    "AdMob_InterstitialAd"   : "",
-    "AdMob_Native"           : "",
+    "IntervalClick"          : 10,
+    "AdMob_ID"               : "pub-3940256099942544",
+    "AdMob_Banner"           : "00000000000000000",
+    "AdMob_InterstitialAd"   : "00000000000000000000",
+    "AdMob_Native"           : "00000000000000000",
     
-    "Facebook_Banner"         : "",
-    "Facebook_InterstitialAd" : "",
-    "Facebook_Native"         : "",
+    "Facebook_Banner"         : "00000000000000000",
+    "Facebook_InterstitialAd" : "00000000000000000",
+    "Facebook_Native"         : "00000000000000000",
     
-    "Applovin_Banner"         : "",
-    "Applovin_InterstitialAd" : "",
-    "Applovin_Native"         : ""
+    "Applovin_Banner"         : "00000000000000000",
+    "Applovin_InterstitialAd" : "00000000000000000",
+    "Applovin_Native"         : "00000000000000000"
   },
   
  
