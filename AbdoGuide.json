@@ -9,7 +9,7 @@
       
     "AdNetwork"              : "applovin",
     "IntervalClick"          : 1,
-    "AdMob_ID"               : "pub-3940256099942544",
+    "AdMob_ID"               : "",
     "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
     "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
     "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
