@@ -7,7 +7,7 @@
   
   "AdsController": {
       
-    "AdNetwork"              : "admob",
+    "AdNetwork"              : "applovin",
     "IntervalClick"          : 1,
     "AdMob_ID"               : "pub-9668370238889734",
     "AdMob_Banner"           : "ca-app-pub-9668370238889734/2749087695",
