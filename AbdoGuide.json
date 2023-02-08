@@ -7,12 +7,12 @@
   
   "AdsController": {
       
-    "AdNetwork"              : "applovin",
+    "AdNetwork"              : "admob",
     "IntervalClick"          : 1,
-    "AdMob_ID"               : "",
-    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_ID"               : "pub-9668370238889734",
+    "AdMob_Banner"           : "ca-app-pub-9668370238889734/2749087695",
+    "AdMob_InterstitialAd"   : "ca-app-pub-9668370238889734/5375251036",
+    "AdMob_Native"           : "ca-app-pub-9668370238889734/3870597673",
     
     "Facebook_Banner"         : "692961278482629_692963411815749",
     "Facebook_InterstitialAd" : "692961278482629_692963491815741",
