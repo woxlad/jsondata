@@ -1,0 +1,19 @@
+{
+	"AdsController": {
+		"TypeAd":"max",
+		
+		"BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
+		"NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
+		
+		
+		"BannerMax": "000000000000000000",
+		"InterstitialMax" : "56cb725a3cfb8150",
+		"NativeMax": "1bfb0b3559ae99c1",
+		
+		"AdsClick":2,
+		"Appupdate":false,
+		"getRedirectUrl":"https://google.com/"
+		
+	}
+}
