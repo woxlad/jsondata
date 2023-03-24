@@ -1,0 +1,143 @@
+{
+
+	"AppRedirect": {
+		"status": "off",
+		"redirect_link": "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+	},
+
+	"AdsController": {
+      
+    "BannerNetwork"              : "admob",
+    "InterstitialNetwork"        : "applovin",
+    "NativeNetwork"              : "applovin",
+    
+    "IntervalClick"          : 1,
+    "AdMob_ID"               : "pub-0000000000000000000",
+    "AdMob_Banner"           : "ca-app-pub-00000000000000/00000000000",
+    "AdMob_InterstitialAd"   : "ca-app-pub-0000000000000/00000000000",
+    "AdMob_Native"           : "ca-app-pub-0000000000/000000000000",
+    
+    "Facebook_Banner"         : "00000000000000000",
+    "Facebook_InterstitialAd" : "00000000000000000",
+    "Facebook_Native"         : "00000000000000000",
+    
+    "Applovin_Banner"         : "00000000000000000",
+    "Applovin_InterstitialAd" : "c4013d279376de82",
+    "Applovin_Native"         : "aa9971c4d6649642"
+  },
+
+	"MyList": [{
+			"title": "How do I pay my Senti loan?",
+			"image": "https://images.assettype.com/fortuneindia%2F2022-06%2F1fa744fc-adb4-48fd-a40e-54e45a7edc8b%2FGettyImages_955530262.jpg?rect=0,66,2129,1198&w=1250&q=60",
+			"native": false,
+			"cpa_title": "off",
+			"cpa_url": "https://www.google.com/",
+			"paragraph": [
+				"1- Locate your M-Pesa SIM toolkit'",
+				"2- Choose Lipa na M-Pesa.",
+				"3- Select paybill and enter the paybill number as 517910.",
+				"4- Type in your phone number as your account number.",
+				"5- Input the loan amount.",
+				"6- Put your M-Pesa pin.",
+				"7- Confirm your details and if correct, press OK."
+
+
+				]
+		},
+		
+		
+		
+		
+		{
+			"title": "Which app gives quick loan?",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB83QwPm16Ma0z4JrqIBQExPUYoVWCqTMmaVWH-FGqhaZAyvzuNqeESIAAHyHVI4x9who&usqp=CAU",
+			"native": true,
+			"cpa_title": "off",
+			"cpa_url": "",
+			"paragraph": [
+				"1- Credy is one of the quick loan giving apps in India that provides personal loans on personalised terms. With no hidden costs, no requirement of collateral or a guarantor, fast online processing, and acceptance of a low CIBIL score, Credy is simple, fast and low-cost."
+				
+				]
+		},
+		{
+			"title": "What is the Paybill number for Senti loan?",
+			"image": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_2/IMAGE_1651483122.webp",
+			"native": false,
+			"cpa_title": "off",
+			"cpa_url": "https://www.google.com/",
+			"paragraph": [
+				"1- Enter Senti paybill number 517910",
+				"2- Input your phone number as the account number. Enter loan amount. Input your M-Pesa PIN. Confirm the details are correct and press OK."
+				
+				
+
+			]
+
+
+		},
+		{
+			"title": "How can I get Shika loan?",
+			"image": "https://www.idfcfirstbank.com/content/dam/idfcfirstbank/images/Blog-Images-717x404-1.jpg",
+			"native": true,
+			"cpa_title": "off",
+			"cpa_url": "https://www.google.com/",
+			"paragraph": [
+				"1- SHIKA is a Kenyan based app that enables you get a loan sent straight to your M-PESA whenever you need it in less than 180 SECONDS! Once you download the app, verify your phone number, register with us, choose a PIN, request for your loan and receive it via your M-PESA within a matter of seconds!" 
+				
+				
+				]
+
+		},
+
+
+
+		{
+			"title": "What is senti app?",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJstnIMfYA0IPFZBr0Oc8Ku46xp6fCjGe-AXnRkLT7KYSIOKslHB8bzi5630h1V-UEQA0&usqp=CAU",
+			"native": false,
+			"cpa_title": "off",
+			"cpa_url": "https://www.google.com/",
+			"paragraph": [
+				"1- Senti is a micro credit mobile app that makes it easy for people in Kenya to access a loan, anytime, anywhere."
+				
+			]
+
+		},
+		
+		{
+			"title": "How do you pay a monthly loan?",
+			"image": "https://www.advisoryexcellence.com/wp-content/uploads/2022/02/CASH-LOAN-PHOTO.jpg",
+			"native": false,
+			"cpa_title": "off",
+			"cpa_url": "https://www.google.com/",
+			"paragraph": [
+				"1- If your rate is 5.5%, divide 0.055 by 12 to calculate your monthly interest rate. ...",
+				"2- Calculate the repayment term in months. ..." ,
+				"3- Calculate the interest over the life of the loan. ...",
+				"4- Divide the loan amount by the interest over the life of the loan to calculate your monthly payment."
+				
+			]
+
+		},
+
+		
+
+
+
+		{
+			"title": "Can I pay loan amount online?",
+			"image": "https://findit-resources.s3.amazonaws.com/forums/1657020079367.jpg",
+			"native": false,
+			"cpa_title": "off",
+			"cpa_url": "https://www.google.com/",
+			"paragraph": [
+				"1- You don't have to write cheques, visit a branch or wait in a queue for your turn to make payments. Simply follow few steps and there you are stress-free of your monthly EMI payments. It's fast, uncomplicated and secure, you can repay loan online as per your convenience."
+				
+				
+				
+				
+				]
+
+		}
+	]
+}
