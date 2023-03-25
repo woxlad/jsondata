@@ -7,9 +7,9 @@
 
 	"AdsController": {
       
-    "BannerNetwork"              : "applovin",
-    "InterstitialNetwork"        : "applovin",
-    "NativeNetwork"              : "applovin",
+    "BannerNetwork"              : "admob",
+    "InterstitialNetwork"        : "admob",
+    "NativeNetwork"              : "admob",
     
     "IntervalClick"          : 1,
     "AdMob_ID"               : "pub-0000000000000000000",
@@ -21,9 +21,9 @@
     "Facebook_InterstitialAd" : "00000000000000000",
     "Facebook_Native"         : "00000000000000000",
     
-    "Applovin_Banner"         : "f8c1c2b3182e0659",
-    "Applovin_InterstitialAd" : "90faaf100b414d58",
-    "Applovin_Native"         : "3dc70f17136c3f72"
+    "Applovin_Banner"         : "00000000000",
+    "Applovin_InterstitialAd" : "0000000000000000",
+    "Applovin_Native"         : "00000000000000000"
   },
 
 	"MyList": [{
