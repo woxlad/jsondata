@@ -1,0 +1,125 @@
+{
+
+	"AppRedirect": {
+		"status": "off",
+		"redirect_link": "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+	},
+
+	"AdsController": {
+      
+    "BannerNetwork"              : "applovin",
+    "InterstitialNetwork"        : "applovin",
+    "NativeNetwork"              : "applovin",
+    
+    "IntervalClick"          : 1,
+    "AdMob_ID"               : "pub-0000000000000000000",
+    "AdMob_Banner"           : "ca-app-pub-00000000000000/00000000000",
+    "AdMob_InterstitialAd"   : "ca-app-pub-0000000000000/00000000000",
+    "AdMob_Native"           : "ca-app-pub-0000000000/000000000000",
+    
+    "Facebook_Banner"         : "00000000000000000",
+    "Facebook_InterstitialAd" : "00000000000000000",
+    "Facebook_Native"         : "00000000000000000",
+    
+    "Applovin_Banner"         : "f8c1c2b3182e0659",
+    "Applovin_InterstitialAd" : "90faaf100b414d58",
+    "Applovin_Native"         : "3dc70f17136c3f72"
+  },
+
+	"MyList": [{
+			"title": "What is gDMSS Plus used for?",
+			"image": "https://www.helpsforpc.com/wp-content/uploads/2020/01/gdmss-for-PC-2.png",
+			"native": false,
+			"cpa_title": "off",
+			"cpa_url": "https://www.google.com/",
+			"paragraph": [
+				"1- Android Surveillance Software gDMSS Plus, Android Phone Remote Surveillance Software, which support Push Alarm, Video Playback, Invisible Task wheel, Finger Gesture, Windows Slide and so on."
+
+
+
+				]
+		},
+		
+		
+		
+		
+		{
+			"title": "What is the difference between gDMSS Lite and Plus?",
+			"image": "https://i.ytimg.com/vi/0vPTeg0rrLU/maxresdefault.jpg",
+			"native": true,
+			"cpa_title": "download",
+			"cpa_url": "https://sites.google.com/view/gdmsscamera/home",
+			"paragraph": [
+				"1- To date, DMSS Plus was paid while the Lite version was free. The differences between DMSS Lite and Plus are: E-Map (visual and functional installation plans), alarm management and Push notifications. Currently there is no need to choose since Dahua has published the Plus version totally free."
+				
+				
+				]
+		},
+		{
+			"title": "Is gDMSS Plus free?",
+			"image": "https://play-lh.googleusercontent.com/-W3SP6mLAVu1EAheU4tenpvFnFqpJ3q4sxItNZZYn7Fu3KmMUcG4Dm2BU1mN3o66hlw=w526-h296-rw",
+			"native": false,
+			"cpa_title": "off",
+			"cpa_url": "https://www.google.com/",
+			"paragraph": [
+				"1- both iDMSS and gDMSS have two versions each: lite and plus; all the Apps are free and can be downloaded from Apple App Store and Google Play Store."
+				
+				
+				
+
+			]
+
+
+		},
+		{
+			"title": "What is gDMSS Lite used for?",
+			"image": "https://i.ytimg.com/vi/CYHkRpADnVc/maxresdefault.jpg",
+			"native": true,
+			"cpa_title": "off",
+			"cpa_url": "https://www.google.com/",
+			"paragraph": [
+				"1- gDMSS Lite is the lite version of the gDMSS Plus. Android Phone Surveillance Software gDMSS Lite, Android Phone Remote Surveillance Software, Support Remote Suveillance and PTZ Control."
+				
+				
+				]
+
+		},
+
+
+
+		{
+			"title": "Which software is used for Dahua camera?",
+			"image": "https://play-lh.googleusercontent.com/0zSVj2vPPTX0NTojrb_CChtJJzx891qSh1JNMmjgKJ8wqxLBQb7l4bG2flGMtJD6Vg=w526-h296-rw",
+			"native": false,
+			"cpa_title": "download",
+			"cpa_url": "https://sites.google.com/view/gdmsscamera/home",
+			"paragraph": [
+				"1- martPSS integrates all Dahua network cameras and storage devices into one intuitive, easy to use interface. The software provides efficient device management, video monitoring and playback, alarm and analytic configuration, as well as video wall setup and preview."
+				
+				
+			]
+
+		},
+
+		
+
+
+
+		{
+			"title": "Which camera is better CP Plus or Dahua?",
+			"image": "https://natutoolpro.com/wp-content/uploads/2021/05/idmss-plus-pc-780x470.jpg",
+			"native": false,
+			"cpa_title": "download",
+			"cpa_url": "https://sites.google.com/view/gdmsscamera/home",
+			"paragraph": [
+				"1- Dahua vs CP Plus – CP Plus is one of the best surveillance cameras on the market that you can get for your home or office. But it is safe to say that the Dahua brand performs much better than other brands in the market."
+				
+				
+				
+				
+				
+				]
+
+		}
+	]
+}
