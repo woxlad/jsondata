@@ -9,7 +9,7 @@
       
     "BannerNetwork"              : "facebook",
     "InterstitialNetwork"        : "applovin",
-    "NativeNetwork"              : "applovin",
+    "NativeNetwork"              : "facebook",
     
     "IntervalClick"          : 2,
     "AdMob_ID"               : "pub-7333227211480388",
