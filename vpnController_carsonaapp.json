@@ -1,0 +1,228 @@
+{
+  "ConnectionType": "random",
+  "VpnUserName"   :"ncpmounir123@namecheap",
+  "VpnPassword"   :"YiPcGXHyVY",
+  "VpnFiles": [
+    {
+"vpnName": "AE-Dubai",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-AE-Dubai-UDP.ovpn"
+},
+	 {
+"vpnName": "AL-Tirana",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-AL-Tirana-UDP.ovpn"
+},
+	 {
+"vpnName": "AT-Vienna",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-AT-Vienna-UDP.ovpn"
+},
+	 {
+"vpnName": "AU-Adelaide",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-AU-Adelaide-UDP.ovpn"
+},
+	 {
+"vpnName": "AU-Brisbane",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-AU-Brisbane-UDP.ovpn"
+},
+	 {
+"vpnName": "AU-Melbourne",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-AU-Melbourne-UDP.ovpn"
+},
+	 {
+"vpnName": "AU-Perth",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-AU-Perth-UDP.ovpn"
+},
+	 {
+"vpnName": "AU-Sydney",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-AU-Sydney-UDP.ovpn"
+},
+	 {
+"vpnName": "BE-Brussels",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-BE-Brussels-UDP.ovpn"
+},
+	 {
+"vpnName": "BG-Sofia",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-BG-Sofia-UDP.ovpn"
+},
+	 {
+"vpnName": "CA-Montreal",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-CA-Montreal-UDP.ovpn"
+},
+	 {
+"vpnName": "CA-Toronto",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-CA-Toronto-UDP.ovpn"
+},
+	 {
+"vpnName": "CA-Vancouver",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-CA-Vancouver-UDP.ovpn"
+},
+	 {
+"vpnName": "CH-Zurich",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-CH-Zurich-UDP.ovpn"
+},
+	 {
+"vpnName": "CR-San%20Jose",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-CR-San%20Jose-UDP.ovpn"
+},
+	 {
+"vpnName": "DE-Frankfurt",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-DE-Frankfurt-UDP.ovpn"
+},
+	 {
+"vpnName": "DK-Copenhagen",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-DK-Copenhagen-UDP.ovpn"
+},
+	 {
+"vpnName": "EE-Tallinn",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-EE-Tallinn-UDP.ovpn"
+},
+	 {
+"vpnName": "ES-Madrid",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-ES-Madrid-UDP.ovpn"
+},
+	 {
+"vpnName": "ES-Valencia",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-ES-Valencia-UDP.ovpn"
+},
+	 {
+"vpnName": "FI-Helsinki",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-FI-Helsinki-UDP.ovpn"
+},
+	 {
+"vpnName": "FR-Bordeaux",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-FR-Bordeaux-UDP.ovpn"
+},
+	 {
+"vpnName": "FR-Marseille",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-FR-Marseille-UDP.ovpn"
+},
+	 {
+"vpnName": "FR-Paris",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-FR-Paris-UDP.ovpn"
+},
+	 {
+"vpnName": "IS-Reykjavik",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-IS-Reykjavik-UDP.ovpn"
+},
+	 {
+"vpnName": "IT-Milan",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-IT-Milan-UDP.ovpn"
+},
+	 {
+"vpnName": "JP-Tokyo",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-JP-Tokyo-UDP.ovpn"
+},
+	 {
+"vpnName": "NL-Amsterdam",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-NL-Amsterdam-UDP.ovpn"
+},
+	 {
+"vpnName": "NO-Oslo",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-NO-Oslo-UDP.ovpn"
+},
+	 {
+"vpnName": "NZ-Auckland",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-NZ-Auckland-UDP.ovpn"
+},
+	 {
+"vpnName": "UK-Birmingham",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-UK-Birmingham-UDP.ovpn"
+},
+	 {
+"vpnName": "UK-Glasgow",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-UK-Glasgow-UDP.ovpn"
+},
+	 {
+"vpnName": "UK-London",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-UK-London-UDP.ovpn"
+},
+	 {
+"vpnName": "UK-Manchester",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-UK-Manchester-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Ashburn",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Ashburn-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Atlanta",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Atlanta-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Boston",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Boston-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Charlotte",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Charlotte-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Chicago",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Chicago-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Cincinnati",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Cincinnati-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Dallas",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Dallas-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Denver",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Denver-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Detroit",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Detroit-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Houston",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Houston-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Las Vegas",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Las%20Vegas-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Los Angeles",
+"vpnFile": "https://archive.org/download/vpnconfig_202302/NCVPN-US-Los%20Angeles-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Miami",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Miami-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Minneapolis",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Minneapolis-UDP.ovpn"
+},
+	 {
+"vpnName": "US-New Orleans",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-New%20Orleans-UDP.ovpn"
+},
+	 {
+"vpnName": "US-New York",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-New%20York-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Phoenix",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Phoenix-UDP.ovpn"
+},
+	 {
+"vpnName": "US-San Jose",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-San%20Jose-UDP.ovpn"
+},
+	 {
+"vpnName": "US-Seattle",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-Seattle-UDP.ovpn"
+},
+	 {
+"vpnName": "US-St Louis",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-US-St%20Louis-UDP.ovpn"
+},
+	 {
+"vpnName": "ZA-Johannesburg",
+"vpnFile": "https://archive.org/download/vpnController/NCVPN-ZA-Johannesburg-UDP.ovpn"
+	 }
+   
+  ]
+}
