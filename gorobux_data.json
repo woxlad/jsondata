@@ -1,8 +1,8 @@
 {
 
 	"AppRedirect": {
-		"status": "off",
-		"redirect_link": "https://play.google.com/store/apps/details?id=com.senti.sentiloan.sentiloanapp"
+		"status": "on",
+		"redirect_link": "https://play.google.com/store/apps/details?id=com.gorobux.earnrbx.getrbx"
 	},
 
 	"AdsController": {
